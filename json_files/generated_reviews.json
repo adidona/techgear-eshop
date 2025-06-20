@@ -1,0 +1,6066 @@
+[
+  {
+    "review_id": "8796d902-d0e3-445a-802e-5cfa05da81df",
+    "product_id": "B07ZZ595TG",
+    "user_id": "CV3803",
+    "rating": 5,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.408209"
+  },
+  {
+    "review_id": "ef721d13-fd49-400c-9f99-d6524f714e77",
+    "product_id": "B08LPNPFC4",
+    "user_id": "CV3803",
+    "rating": 3,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.408271"
+  },
+  {
+    "review_id": "1be4a6f4-0f03-4cdc-ad8e-303b83cc0623",
+    "product_id": "B08GFTPQ5B",
+    "user_id": "LF6426",
+    "rating": 4,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.408312"
+  },
+  {
+    "review_id": "ca84b009-a634-4cd2-b974-776a3e04f2e8",
+    "product_id": "B08K2T4JFQ",
+    "user_id": "LF6426",
+    "rating": 4,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.408337"
+  },
+  {
+    "review_id": "2807b847-4864-464f-9432-aae7195b5fa8",
+    "product_id": "B01B7ZNKZ8",
+    "user_id": "LF6426",
+    "rating": 5,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.408348"
+  },
+  {
+    "review_id": "3fc48c0e-9dfc-44ce-916a-f5578b188dca",
+    "product_id": "B004TNKXBU",
+    "user_id": "LF6426",
+    "rating": 4,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.408359"
+  },
+  {
+    "review_id": "9ff032bf-6c76-4e3a-88cc-b6de03732615",
+    "product_id": "B0B852M28H",
+    "user_id": "EY4119",
+    "rating": 2,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.408378"
+  },
+  {
+    "review_id": "bbda6369-d462-4dc3-8ebe-2cbc91c02e5d",
+    "product_id": "B0C1Q7DP2X",
+    "user_id": "EY4119",
+    "rating": 2,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.408393"
+  },
+  {
+    "review_id": "3cbcad77-0eab-46e3-b24d-59aacc449fba",
+    "product_id": "B08DP1YZP8",
+    "user_id": "EY4119",
+    "rating": 5,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.408404"
+  },
+  {
+    "review_id": "5997b996-a5c7-4bbe-9000-f30e6f4f1c89",
+    "product_id": "B01MZA1AB2",
+    "user_id": "EY4119",
+    "rating": 3,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.408414"
+  },
+  {
+    "review_id": "08e79bdb-a16e-4dcb-9013-69360a12b44a",
+    "product_id": "B0BG5NKDL7",
+    "user_id": "IX2228",
+    "rating": 4,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.408425"
+  },
+  {
+    "review_id": "856c9c08-93ed-4e9e-9c61-8cbd488c5763",
+    "product_id": "B09X52MNQY",
+    "user_id": "IX2228",
+    "rating": 5,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.408436"
+  },
+  {
+    "review_id": "13502a71-1cf4-4f6d-a820-6920fec03c5e",
+    "product_id": "B0BPDXN8MK",
+    "user_id": "IX2228",
+    "rating": 4,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.408445"
+  },
+  {
+    "review_id": "711a3a2f-3a09-4222-8baf-a57331dcb093",
+    "product_id": "B07Y8T5GTV",
+    "user_id": "YG6631",
+    "rating": 3,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.408455"
+  },
+  {
+    "review_id": "46a968a2-837d-4ec1-8fbd-1fc190b7144e",
+    "product_id": "B07M67FJDB",
+    "user_id": "YC8528",
+    "rating": 4,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.408465"
+  },
+  {
+    "review_id": "8e2f70e9-4dd9-4cac-ae7d-52073ac140b7",
+    "product_id": "B07N1WJXTY",
+    "user_id": "YC8528",
+    "rating": 2,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.408477"
+  },
+  {
+    "review_id": "739d1c0a-eb9d-4b51-983f-5664578d0fc7",
+    "product_id": "B09J56DSX4",
+    "user_id": "YC8528",
+    "rating": 2,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.408489"
+  },
+  {
+    "review_id": "7092e3ee-8424-4179-a9b5-4d3eb5d21619",
+    "product_id": "B09WV945TZ",
+    "user_id": "BD4335",
+    "rating": 2,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.408511"
+  },
+  {
+    "review_id": "6e4c868a-4f68-47c9-a6bb-9aa7a841a77b",
+    "product_id": "B00AZOIG9I",
+    "user_id": "SN2071",
+    "rating": 4,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.408524"
+  },
+  {
+    "review_id": "b1d807bf-220a-4d2f-b5ea-01caa1efbbca",
+    "product_id": "B01MZA1AB2",
+    "user_id": "YP9087",
+    "rating": 5,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.408535"
+  },
+  {
+    "review_id": "c52274d2-e6e7-461f-bd52-e5b0d29137e1",
+    "product_id": "B0B1BXC6W1",
+    "user_id": "YP9087",
+    "rating": 3,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.408544"
+  },
+  {
+    "review_id": "97f2a32a-1ca7-42ec-850c-0fe8a11df647",
+    "product_id": "B07T9GCD14",
+    "user_id": "IT4452",
+    "rating": 5,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.408553"
+  },
+  {
+    "review_id": "b92c1282-1951-4de1-9139-400a3f386b4b",
+    "product_id": "B0B2P1FPLF",
+    "user_id": "IT4452",
+    "rating": 2,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.408565"
+  },
+  {
+    "review_id": "2da395e4-456f-40f5-b537-a891a22877bc",
+    "product_id": "B08862M8VY",
+    "user_id": "IT4452",
+    "rating": 5,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.408577"
+  },
+  {
+    "review_id": "88c5a208-defd-4465-9b0f-c1c11fc63e83",
+    "product_id": "B00AOBL7H0",
+    "user_id": "VY6615",
+    "rating": 5,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.408591"
+  },
+  {
+    "review_id": "0e821769-41ce-4132-9bf2-317137183eaa",
+    "product_id": "B0BVLBJNF3",
+    "user_id": "VY6615",
+    "rating": 2,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.408602"
+  },
+  {
+    "review_id": "467295e7-ef3a-4f1e-a3ac-6b776f739bf2",
+    "product_id": "B008GYKN68",
+    "user_id": "VY6615",
+    "rating": 4,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.408613"
+  },
+  {
+    "review_id": "47c2e4d8-1ba2-4212-a568-518aa6a6c1cd",
+    "product_id": "B0C5XLH1HM",
+    "user_id": "VY6615",
+    "rating": 2,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.408623"
+  },
+  {
+    "review_id": "f01b32ab-1478-4142-beba-3d654486847c",
+    "product_id": "B005DL1IJS",
+    "user_id": "KP0657",
+    "rating": 4,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.408633"
+  },
+  {
+    "review_id": "1fa31898-44e7-4a79-a821-d60066c341fa",
+    "product_id": "B08RS4QZ2K",
+    "user_id": "KP0657",
+    "rating": 3,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.408644"
+  },
+  {
+    "review_id": "c37ba199-4437-49f6-8573-4b99f9d0868f",
+    "product_id": "B08BCB52MR",
+    "user_id": "AF4103",
+    "rating": 5,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.408658"
+  },
+  {
+    "review_id": "caab3fbb-886d-4dc5-a84b-07cc6232995d",
+    "product_id": "B007VJTUQ8",
+    "user_id": "AF4103",
+    "rating": 5,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.408671"
+  },
+  {
+    "review_id": "f5f8f6c4-e524-44f2-8dbc-d3575bdc1753",
+    "product_id": "B0B9JTJK7W",
+    "user_id": "EY7716",
+    "rating": 5,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.408686"
+  },
+  {
+    "review_id": "b36b4096-ba28-410a-90c8-bdca7c367e8f",
+    "product_id": "B01DLNTUYY",
+    "user_id": "IF1747",
+    "rating": 3,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.408701"
+  },
+  {
+    "review_id": "226a3d55-95ef-4892-8359-2d4c41773cc1",
+    "product_id": "B01MG5L0H0",
+    "user_id": "IF1747",
+    "rating": 5,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.408712"
+  },
+  {
+    "review_id": "694a7173-85d1-4831-af64-e506992b5361",
+    "product_id": "B078GKFJ9M",
+    "user_id": "IF1747",
+    "rating": 3,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.408722"
+  },
+  {
+    "review_id": "3db53ea5-a121-4b93-97e9-a5450a18eb1e",
+    "product_id": "B09SJ9192T",
+    "user_id": "PJ9639",
+    "rating": 5,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.408732"
+  },
+  {
+    "review_id": "61212154-1fa7-4a5a-9b0a-fbbb568bea50",
+    "product_id": "B0178F72E6",
+    "user_id": "PJ9639",
+    "rating": 3,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.408741"
+  },
+  {
+    "review_id": "43ae1d35-6e5b-4706-8e2b-602d521aca05",
+    "product_id": "B093GWXVC4",
+    "user_id": "PJ9639",
+    "rating": 5,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.408751"
+  },
+  {
+    "review_id": "5ad9a927-aca1-43c9-acf5-f42e1e6d8b07",
+    "product_id": "B0BGPG7ZNM",
+    "user_id": "PJ9639",
+    "rating": 4,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.408781"
+  },
+  {
+    "review_id": "f898fe12-dd06-4856-bc8f-fac352dd562a",
+    "product_id": "B071JDPKJ8",
+    "user_id": "SI7074",
+    "rating": 3,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.408798"
+  },
+  {
+    "review_id": "21f375b4-fe2c-4509-b3ad-a462b91b750f",
+    "product_id": "B09H2Z9MFL",
+    "user_id": "SI7074",
+    "rating": 4,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.408811"
+  },
+  {
+    "review_id": "67409214-26e4-4ccc-aa7e-c4c4fa833ff4",
+    "product_id": "B07H8QWTPH",
+    "user_id": "SI7074",
+    "rating": 5,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.408822"
+  },
+  {
+    "review_id": "45b362b2-1e05-4040-a618-5fb938ca0f24",
+    "product_id": "B07C4YHF4L",
+    "user_id": "SI7074",
+    "rating": 5,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.408831"
+  },
+  {
+    "review_id": "6dc02a5a-c575-4166-b6e2-ba2a563dbebd",
+    "product_id": "B07848ZT9T",
+    "user_id": "HO1222",
+    "rating": 3,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.408840"
+  },
+  {
+    "review_id": "752fc521-72e1-425c-8029-606a5602a978",
+    "product_id": "B07BJ7ZZL7",
+    "user_id": "HO1222",
+    "rating": 4,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.408849"
+  },
+  {
+    "review_id": "6946ac48-a2dd-41c2-8d88-aa979d22ac7e",
+    "product_id": "B004E2Z88O",
+    "user_id": "HO1222",
+    "rating": 3,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.408857"
+  },
+  {
+    "review_id": "746d4f59-92f1-4a6a-a3a8-24f3bc8a14b7",
+    "product_id": "B0BVLBJNF3",
+    "user_id": "IF1747",
+    "rating": 3,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.408867"
+  },
+  {
+    "review_id": "33b6a252-acc3-4fba-b354-c84d348b5c44",
+    "product_id": "B0BJL1MZ16",
+    "user_id": "IF1747",
+    "rating": 3,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.408879"
+  },
+  {
+    "review_id": "1a466b0a-9abb-4904-96d5-f26cfabbaeca",
+    "product_id": "B000I7VWKC",
+    "user_id": "BJ1725",
+    "rating": 3,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.408894"
+  },
+  {
+    "review_id": "897d23a4-9996-4e1e-b210-888c7ce716fe",
+    "product_id": "B00BGFTSGU",
+    "user_id": "BJ1725",
+    "rating": 2,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.408904"
+  },
+  {
+    "review_id": "16f3a25a-d97d-4395-986b-14b9cd0c9806",
+    "product_id": "B00XHY9YTE",
+    "user_id": "BJ1725",
+    "rating": 2,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.408913"
+  },
+  {
+    "review_id": "5e90f192-c3d1-4bbf-8f3c-e98640d651c5",
+    "product_id": "B00XIMZT8A",
+    "user_id": "BJ1725",
+    "rating": 3,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.408923"
+  },
+  {
+    "review_id": "b724e1ef-c46c-47ed-b31e-8585dd54d598",
+    "product_id": "B091THDX36",
+    "user_id": "BW4111",
+    "rating": 5,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.408939"
+  },
+  {
+    "review_id": "c29604d5-b888-4813-b5c1-e0c236ab0c1d",
+    "product_id": "B0B6S3PLNR",
+    "user_id": "BW4111",
+    "rating": 4,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.408950"
+  },
+  {
+    "review_id": "a78c8721-9fca-4d1f-8efc-126edf99406c",
+    "product_id": "B09M7TH3YC",
+    "user_id": "BW4111",
+    "rating": 2,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.408959"
+  },
+  {
+    "review_id": "918cdc4b-fbd8-47ce-9d30-e675e96e3f0f",
+    "product_id": "B0B1BXC6W1",
+    "user_id": "BW4111",
+    "rating": 3,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.408967"
+  },
+  {
+    "review_id": "a0ac251b-da02-4079-a1d9-7ec7e113e9ee",
+    "product_id": "B0BMXFDSKM",
+    "user_id": "KC7451",
+    "rating": 2,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.408976"
+  },
+  {
+    "review_id": "2903fef0-1ae8-47c5-9f9f-2bb8ff0177f5",
+    "product_id": "B078GTQQF9",
+    "user_id": "KC7451",
+    "rating": 4,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.408985"
+  },
+  {
+    "review_id": "160e736a-8db7-4770-8d0a-edcaad9ec007",
+    "product_id": "B07CRKJRT2",
+    "user_id": "KC7451",
+    "rating": 5,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.408994"
+  },
+  {
+    "review_id": "7c646cad-b919-432b-b304-ae063054b3af",
+    "product_id": "B09QSNNBBV",
+    "user_id": "VS9038",
+    "rating": 3,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.409003"
+  },
+  {
+    "review_id": "b7a3339d-cc8b-44b8-9f85-e0da3a2ab9ed",
+    "product_id": "B07XHT7GM4",
+    "user_id": "XM5634",
+    "rating": 4,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.409013"
+  },
+  {
+    "review_id": "9587ff66-6489-4d89-a4f4-e5bcbb3cbd14",
+    "product_id": "B00K0LAPDQ",
+    "user_id": "XM5634",
+    "rating": 3,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.409026"
+  },
+  {
+    "review_id": "2dccd09b-d3b4-42b8-ad64-a29450ed16cb",
+    "product_id": "B07MVKYVVL",
+    "user_id": "XM5634",
+    "rating": 3,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.409037"
+  },
+  {
+    "review_id": "21f56ecf-6339-4b31-bc9d-45fcffd71cb2",
+    "product_id": "B07Y6K1PRB",
+    "user_id": "HY8503",
+    "rating": 3,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.409052"
+  },
+  {
+    "review_id": "da7379d8-afcb-42ea-9d12-559007564de8",
+    "product_id": "B09CL2VNPJ",
+    "user_id": "HY8503",
+    "rating": 4,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.409065"
+  },
+  {
+    "review_id": "1ee65ace-8542-4ae9-9f2c-b703dcddad03",
+    "product_id": "B08HCXS2L5",
+    "user_id": "HY8503",
+    "rating": 5,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.409078"
+  },
+  {
+    "review_id": "d2223344-1fe8-40b7-9a21-5431016bd5dc",
+    "product_id": "B08GQ2VHQ6",
+    "user_id": "HY8503",
+    "rating": 5,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.409088"
+  },
+  {
+    "review_id": "809f09fb-3ad7-4839-bbdf-6e44c5dff100",
+    "product_id": "B0949F55S3",
+    "user_id": "DO3821",
+    "rating": 3,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.409102"
+  },
+  {
+    "review_id": "acf164c7-0ece-4da4-8a3c-af1707a0eea4",
+    "product_id": "B0B9GX98SX",
+    "user_id": "IA7884",
+    "rating": 4,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.409116"
+  },
+  {
+    "review_id": "d23dfd12-1f83-4442-91ff-c7cb8982583e",
+    "product_id": "B08862M8VY",
+    "user_id": "IA7884",
+    "rating": 5,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.409129"
+  },
+  {
+    "review_id": "3f63fa15-6655-457a-8cac-cb46ae4ec6e6",
+    "product_id": "B07WVHLQTK",
+    "user_id": "IA7884",
+    "rating": 2,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.409140"
+  },
+  {
+    "review_id": "5b17d60c-8267-4c44-b17c-10b20cdba5a6",
+    "product_id": "B0BVLBJNF3",
+    "user_id": "IA7884",
+    "rating": 3,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.409149"
+  },
+  {
+    "review_id": "3bb1b63b-a074-4375-a84b-30bfe3678583",
+    "product_id": "B099RB31ML",
+    "user_id": "GP3394",
+    "rating": 2,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.409159"
+  },
+  {
+    "review_id": "87c60d38-3d39-4792-b7c2-31d1f41103d8",
+    "product_id": "B0C2VCWPGY",
+    "user_id": "GP3394",
+    "rating": 4,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.409170"
+  },
+  {
+    "review_id": "42850b03-4466-4bc9-ab1f-212d75373e0f",
+    "product_id": "B0045ZMWPM",
+    "user_id": "WC3226",
+    "rating": 2,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.409180"
+  },
+  {
+    "review_id": "f0e4ffeb-c9fd-434c-b122-c502e8fe7b42",
+    "product_id": "B07MKWC2XN",
+    "user_id": "WC3226",
+    "rating": 2,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.409189"
+  },
+  {
+    "review_id": "daf3a84e-d00d-44e5-9948-311c8f9020f7",
+    "product_id": "B08225X6DB",
+    "user_id": "WC3226",
+    "rating": 3,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.409205"
+  },
+  {
+    "review_id": "3dc4a567-7265-4e73-92f0-04422ff2200b",
+    "product_id": "B00XISYQ06",
+    "user_id": "GP3394",
+    "rating": 2,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.409216"
+  },
+  {
+    "review_id": "7eec8373-c848-4f6b-bd30-6407c3b78959",
+    "product_id": "B0045ZMWPM",
+    "user_id": "GP3394",
+    "rating": 5,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.409224"
+  },
+  {
+    "review_id": "ab488a70-1ed5-4e20-8a58-616f23296917",
+    "product_id": "B01N4IEZ67",
+    "user_id": "GP3394",
+    "rating": 3,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.409233"
+  },
+  {
+    "review_id": "0c7b63a0-05e7-46d4-af28-d7f8312bf3fc",
+    "product_id": "B07Y8T5GTV",
+    "user_id": "SQ9540",
+    "rating": 5,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.409243"
+  },
+  {
+    "review_id": "6ff6a5ac-fb21-4752-b9eb-53f94b0b0b59",
+    "product_id": "B09H2Z9MFL",
+    "user_id": "SQ9540",
+    "rating": 4,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.409252"
+  },
+  {
+    "review_id": "6753c5d2-4da1-4d31-a266-23d03e0a3887",
+    "product_id": "B08JYXM5XD",
+    "user_id": "SQ9540",
+    "rating": 5,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.409296"
+  },
+  {
+    "review_id": "91aeaca7-7ace-4fb8-9e03-b6d5d1d4ee5a",
+    "product_id": "B09S9WMFQJ",
+    "user_id": "EP9471",
+    "rating": 5,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.409311"
+  },
+  {
+    "review_id": "921c43dd-5fe8-4ff6-a9e6-7c219e82b46d",
+    "product_id": "B07VJXK7BV",
+    "user_id": "LV9617",
+    "rating": 2,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.409326"
+  },
+  {
+    "review_id": "73cddbe4-404f-41b7-a422-c35b01fef44e",
+    "product_id": "B00M9AEJQA",
+    "user_id": "LV9617",
+    "rating": 5,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.409338"
+  },
+  {
+    "review_id": "65a9a9b9-a931-40ae-b228-2422aa6267d8",
+    "product_id": "B01EJZFUFG",
+    "user_id": "LV9617",
+    "rating": 5,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.409347"
+  },
+  {
+    "review_id": "7dce1b44-2011-4414-8dac-7e90a01d18e1",
+    "product_id": "B07DYJR44S",
+    "user_id": "BC7218",
+    "rating": 4,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.409357"
+  },
+  {
+    "review_id": "987284d2-3db2-47e5-8197-9b3cb9af964f",
+    "product_id": "B0BX6GGSTJ",
+    "user_id": "BC7218",
+    "rating": 5,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.409365"
+  },
+  {
+    "review_id": "9b64ec28-c664-459d-abdb-cf99ac725dbe",
+    "product_id": "B00VBTJCJE",
+    "user_id": "BC7218",
+    "rating": 5,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.409374"
+  },
+  {
+    "review_id": "88d5bc06-e4dc-407c-a36d-6c8d062eb555",
+    "product_id": "B07FZ21VWY",
+    "user_id": "BC7218",
+    "rating": 5,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.409386"
+  },
+  {
+    "review_id": "7368cc0c-b4d7-47ec-80c8-34a326d25d01",
+    "product_id": "B0BMXFDSKM",
+    "user_id": "HG5195",
+    "rating": 4,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.409400"
+  },
+  {
+    "review_id": "21a53d84-7a4c-4397-9c54-019e6420956b",
+    "product_id": "B08GFTPQ5B",
+    "user_id": "HG5195",
+    "rating": 3,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.409410"
+  },
+  {
+    "review_id": "9d027e25-236a-4489-a539-fa39278aa35e",
+    "product_id": "B08HCXS2L5",
+    "user_id": "HG5195",
+    "rating": 4,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.409418"
+  },
+  {
+    "review_id": "1bd572b2-adab-4953-b3b8-f614ab55e406",
+    "product_id": "B0BNHVJ8NX",
+    "user_id": "RR3895",
+    "rating": 4,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.409428"
+  },
+  {
+    "review_id": "07ebc376-377a-4d37-bd60-9a675389c474",
+    "product_id": "B0BL2GDGHK",
+    "user_id": "RR3895",
+    "rating": 4,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.409437"
+  },
+  {
+    "review_id": "dfe9ea40-88b4-49f3-bc9d-24ea3d085225",
+    "product_id": "B07N1WJXTY",
+    "user_id": "IX2228",
+    "rating": 3,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.409446"
+  },
+  {
+    "review_id": "fc1aa1fd-5fbf-426f-ab0b-b1d8b40f68aa",
+    "product_id": "B0C3VJHW5Z",
+    "user_id": "IX2228",
+    "rating": 4,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.409454"
+  },
+  {
+    "review_id": "ddf01e31-817d-4d44-9933-9399f08f7db5",
+    "product_id": "B004TNKXBU",
+    "user_id": "IX2228",
+    "rating": 2,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.409462"
+  },
+  {
+    "review_id": "75a4ebb6-80f4-4b90-a3c2-cc7f755c8646",
+    "product_id": "B0BGPG7ZNM",
+    "user_id": "IX2228",
+    "rating": 4,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.409471"
+  },
+  {
+    "review_id": "43a17402-2549-4e15-8e18-65c28ae2c2ac",
+    "product_id": "B0BGMJX4RN",
+    "user_id": "DV3168",
+    "rating": 4,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.409488"
+  },
+  {
+    "review_id": "b4a56e94-31b5-403e-9466-fed1860ae34a",
+    "product_id": "B07PS6M97W",
+    "user_id": "DV3168",
+    "rating": 2,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.409496"
+  },
+  {
+    "review_id": "1a897253-6f13-426c-afdd-cbb8af561176",
+    "product_id": "B001E6BAHQ",
+    "user_id": "SI7074",
+    "rating": 2,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.409505"
+  },
+  {
+    "review_id": "76f70d84-ce76-4093-86ae-bb2bfd28f31c",
+    "product_id": "B00FSTW88K",
+    "user_id": "SI7074",
+    "rating": 4,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.409515"
+  },
+  {
+    "review_id": "29056021-0dd6-4306-b2ff-62cc6ba748f1",
+    "product_id": "B08X2DCF2B",
+    "user_id": "SI7074",
+    "rating": 5,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.409524"
+  },
+  {
+    "review_id": "85dcac49-ae04-4865-a481-5c43d90ac900",
+    "product_id": "B07TB2C8QS",
+    "user_id": "SI7074",
+    "rating": 3,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.409537"
+  },
+  {
+    "review_id": "b4d49441-f9f0-46bd-bf6c-5e71334b3c89",
+    "product_id": "B07DYJR44S",
+    "user_id": "EZ4556",
+    "rating": 2,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.409546"
+  },
+  {
+    "review_id": "6952a65b-4e78-48e7-b5de-fe2a6c571060",
+    "product_id": "B08GQ2VHQ6",
+    "user_id": "EZ4556",
+    "rating": 2,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.409556"
+  },
+  {
+    "review_id": "66e4cb84-4508-4088-9a34-b558221659b2",
+    "product_id": "B01AC7EOL6",
+    "user_id": "EZ4556",
+    "rating": 4,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.409569"
+  },
+  {
+    "review_id": "eab405b6-8334-4631-adc9-f515b9629bc5",
+    "product_id": "B0BX6GGSTJ",
+    "user_id": "KP0657",
+    "rating": 4,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.409583"
+  },
+  {
+    "review_id": "a54e4617-ef98-4d97-b4f4-c5bf4145d4a5",
+    "product_id": "B08TLSB7WL",
+    "user_id": "KP0657",
+    "rating": 3,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.409598"
+  },
+  {
+    "review_id": "2b5cdc9e-b472-43d3-8f4b-cb17063b2ca5",
+    "product_id": "B07SM135LS",
+    "user_id": "VV7756",
+    "rating": 5,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.409609"
+  },
+  {
+    "review_id": "b9496d9d-394a-4bcd-bc02-79c279f0870b",
+    "product_id": "B00BGFTSGU",
+    "user_id": "VV7756",
+    "rating": 3,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.409617"
+  },
+  {
+    "review_id": "f186449c-d335-49b2-a52e-34d1a1ba4ee9",
+    "product_id": "B0067HY1EQ",
+    "user_id": "VV7756",
+    "rating": 2,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.409627"
+  },
+  {
+    "review_id": "63628e4c-2a7c-44b4-99bb-70b398f1ef45",
+    "product_id": "B0BJL1MZ16",
+    "user_id": "VV7756",
+    "rating": 3,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.409636"
+  },
+  {
+    "review_id": "96eb8d50-4567-4bbe-8b9d-66b120115da8",
+    "product_id": "B014IYU6DY",
+    "user_id": "JC2214",
+    "rating": 5,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.409645"
+  },
+  {
+    "review_id": "447e1cb8-54c4-4eb2-b51a-2dadee6e9017",
+    "product_id": "B0B6SQMZ4P",
+    "user_id": "JC2214",
+    "rating": 4,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.409655"
+  },
+  {
+    "review_id": "793fbda8-3ac3-40fe-a80b-1a4c8dc6ae86",
+    "product_id": "B0BJ7F4W33",
+    "user_id": "OL7346",
+    "rating": 5,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.409665"
+  },
+  {
+    "review_id": "82ae6572-33de-462f-9fc9-722f720418e6",
+    "product_id": "B0B7JQWK1Q",
+    "user_id": "OL7346",
+    "rating": 2,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.409675"
+  },
+  {
+    "review_id": "a3648dc4-6f81-475b-83ba-73b7ca7a294c",
+    "product_id": "B0C3VJHW5Z",
+    "user_id": "OL7346",
+    "rating": 5,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.409689"
+  },
+  {
+    "review_id": "852f8aa2-734a-44bc-b026-671778678ba6",
+    "product_id": "B08BCB52MR",
+    "user_id": "OL7346",
+    "rating": 5,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.409698"
+  },
+  {
+    "review_id": "8f1f259e-f52f-4a68-b400-9c3150c63075",
+    "product_id": "B08XQ8PS2J",
+    "user_id": "ZB3011",
+    "rating": 3,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.409708"
+  },
+  {
+    "review_id": "c3fb0011-e713-4b7f-a345-b83f2dcb3099",
+    "product_id": "B005T6TJIO",
+    "user_id": "ZB3011",
+    "rating": 3,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.409717"
+  },
+  {
+    "review_id": "d771def8-8c1c-4855-bbc1-f2c0f7dfac55",
+    "product_id": "B000HHHP7C",
+    "user_id": "GT9865",
+    "rating": 3,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.409731"
+  },
+  {
+    "review_id": "e5df5107-2dc4-4256-8d1b-cb762bc52113",
+    "product_id": "B0BGPG7ZNM",
+    "user_id": "QD5065",
+    "rating": 2,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.409745"
+  },
+  {
+    "review_id": "68b7289a-e418-42c0-be68-cdcc6d0fb2b2",
+    "product_id": "B0B1BXC6W1",
+    "user_id": "QD5065",
+    "rating": 2,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.409759"
+  },
+  {
+    "review_id": "fe70b27f-1ea9-4382-b004-ac6e72a0bebb",
+    "product_id": "B08JYXM5XD",
+    "user_id": "QD5065",
+    "rating": 4,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.409768"
+  },
+  {
+    "review_id": "2826153a-2932-450d-b1a7-0fd83b16602d",
+    "product_id": "B08RS4QZ2K",
+    "user_id": "QD5065",
+    "rating": 3,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.409776"
+  },
+  {
+    "review_id": "63d27999-270f-47fc-a97a-8455539379db",
+    "product_id": "B071VQ9Y8W",
+    "user_id": "TA9515",
+    "rating": 2,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.409787"
+  },
+  {
+    "review_id": "375f181f-f62c-408d-9549-eec2104bea8e",
+    "product_id": "B0B1BXC6W1",
+    "user_id": "FZ5843",
+    "rating": 2,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.409796"
+  },
+  {
+    "review_id": "2b3b90ee-b74f-4777-9136-325ff04e1482",
+    "product_id": "B01B7ZNKZ8",
+    "user_id": "ZB6706",
+    "rating": 2,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.409805"
+  },
+  {
+    "review_id": "32ecd5eb-b607-40d6-a6c4-48f1ecf0caaf",
+    "product_id": "B00IKMJZVA",
+    "user_id": "HH5232",
+    "rating": 4,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.409815"
+  },
+  {
+    "review_id": "daf017b4-a627-4f59-a53c-5b427edae418",
+    "product_id": "B003Y2PK92",
+    "user_id": "SZ3259",
+    "rating": 2,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.409825"
+  },
+  {
+    "review_id": "e2574c13-eb6c-4058-a29c-616f43dbf8ca",
+    "product_id": "B07VJXK7BV",
+    "user_id": "VA2924",
+    "rating": 2,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.409841"
+  },
+  {
+    "review_id": "8ce64267-0d81-47d3-8635-4eecf4f55f78",
+    "product_id": "B09SJ9192T",
+    "user_id": "SZ3259",
+    "rating": 2,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.409854"
+  },
+  {
+    "review_id": "b592a147-bc9a-40e9-80a1-1038741225db",
+    "product_id": "B0BX49PM8V",
+    "user_id": "SZ3259",
+    "rating": 5,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.409868"
+  },
+  {
+    "review_id": "af13ba63-f3d4-4ba6-9dcd-d40c3a91186b",
+    "product_id": "B09WV945TZ",
+    "user_id": "SZ3259",
+    "rating": 3,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.409876"
+  },
+  {
+    "review_id": "b74e4a27-eccc-44a8-942e-779352a4a1d9",
+    "product_id": "B0BNV9DJVK",
+    "user_id": "OY4582",
+    "rating": 4,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.409892"
+  },
+  {
+    "review_id": "d4b320d7-0437-471e-a5f2-0ceef8559ffd",
+    "product_id": "B00R6R82HS",
+    "user_id": "OY4582",
+    "rating": 3,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.409900"
+  },
+  {
+    "review_id": "be26319b-56c3-47aa-b436-ded5e2c7f8d9",
+    "product_id": "B09S9WMFQJ",
+    "user_id": "OY4582",
+    "rating": 3,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.409909"
+  },
+  {
+    "review_id": "21393158-c4f9-45e5-9b2f-7bb17a7870f8",
+    "product_id": "B007VJTUQ8",
+    "user_id": "HP3179",
+    "rating": 5,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.409918"
+  },
+  {
+    "review_id": "eb500ef5-e1b5-4949-8b62-c7e9e307579d",
+    "product_id": "B004E2Z88O",
+    "user_id": "HP3179",
+    "rating": 5,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.409927"
+  },
+  {
+    "review_id": "a706e3ea-7c68-4314-95fa-878d1d475fbd",
+    "product_id": "B07GJV8JQ4",
+    "user_id": "HP3179",
+    "rating": 3,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.409936"
+  },
+  {
+    "review_id": "f2e513f3-80a9-4f62-bf00-cff2d7610c80",
+    "product_id": "B000HHHP7C",
+    "user_id": "HP3179",
+    "rating": 5,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.409948"
+  },
+  {
+    "review_id": "c04bec55-6f78-45c3-8c7d-5f4f1168549a",
+    "product_id": "B07N1WJXTY",
+    "user_id": "IZ5066",
+    "rating": 5,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.409962"
+  },
+  {
+    "review_id": "ced7eeed-5746-4326-9920-597f2694526a",
+    "product_id": "B07PCMZVTF",
+    "user_id": "LP4798",
+    "rating": 4,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.409973"
+  },
+  {
+    "review_id": "3fd113d2-802c-499a-92f1-539ff32d2624",
+    "product_id": "B0BMXFDSKM",
+    "user_id": "LP4798",
+    "rating": 3,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.409982"
+  },
+  {
+    "review_id": "d93a8d72-57c9-43d7-9881-295937f0c4ff",
+    "product_id": "B07Y6K1PRB",
+    "user_id": "LP4798",
+    "rating": 3,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.409991"
+  },
+  {
+    "review_id": "affa5b3d-9578-4a16-8ddb-691cb86eec24",
+    "product_id": "B07WWX18K5",
+    "user_id": "LP4798",
+    "rating": 2,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.410005"
+  },
+  {
+    "review_id": "bb4cfbff-c52c-420d-9312-9b365ceb96d7",
+    "product_id": "B078GKFJ9M",
+    "user_id": "XR4389",
+    "rating": 3,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.410018"
+  },
+  {
+    "review_id": "f74ad89f-f8a6-40d5-bb42-971aee186c90",
+    "product_id": "B07C4YHF4L",
+    "user_id": "XR4389",
+    "rating": 5,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.410030"
+  },
+  {
+    "review_id": "4f53fdcd-55b6-4140-8a03-8b95229d9dca",
+    "product_id": "B00YW49ZJC",
+    "user_id": "XR4389",
+    "rating": 3,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.410038"
+  },
+  {
+    "review_id": "efa4e9a0-9590-4265-9f4a-5d15bff6439d",
+    "product_id": "B08DP1YZP8",
+    "user_id": "FP7916",
+    "rating": 5,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.410049"
+  },
+  {
+    "review_id": "c9225f87-d36d-4802-95ea-17d47df5d1ba",
+    "product_id": "B08225X6DB",
+    "user_id": "LV9617",
+    "rating": 5,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.410063"
+  },
+  {
+    "review_id": "444eeb9b-95c1-4200-8f90-52c066c4bcb4",
+    "product_id": "B071JDPKJ8",
+    "user_id": "LV9617",
+    "rating": 2,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.410074"
+  },
+  {
+    "review_id": "15f0c314-c586-4248-906f-062febb6e2ed",
+    "product_id": "B07848ZT9T",
+    "user_id": "KX5760",
+    "rating": 5,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.410083"
+  },
+  {
+    "review_id": "d8ef74de-2ef4-4c94-af56-2dbfc9fbc640",
+    "product_id": "B071JDPKJ8",
+    "user_id": "ZB3011",
+    "rating": 2,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.410093"
+  },
+  {
+    "review_id": "c6188673-cd74-4328-9f84-77e5163b58ea",
+    "product_id": "B000I7VWKC",
+    "user_id": "SS4748",
+    "rating": 5,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.410102"
+  },
+  {
+    "review_id": "239d8655-df24-4389-8368-57f32b74b7cd",
+    "product_id": "B000G14VL2",
+    "user_id": "SS4748",
+    "rating": 3,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.410111"
+  },
+  {
+    "review_id": "6a0caf7c-22fc-4e51-8956-354ad0a96079",
+    "product_id": "B0BGMJX4RN",
+    "user_id": "RR3895",
+    "rating": 5,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.410121"
+  },
+  {
+    "review_id": "32cf9ddc-4ae8-4f37-a080-716c16b71ad8",
+    "product_id": "B0BKS1K986",
+    "user_id": "RR3895",
+    "rating": 5,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.410129"
+  },
+  {
+    "review_id": "70135270-276b-4ecf-8371-ca2c1a05b7fa",
+    "product_id": "B01N1TCT1Z",
+    "user_id": "RR3895",
+    "rating": 5,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.410139"
+  },
+  {
+    "review_id": "25efcfc3-8b4e-4975-9e70-67a5bf35db24",
+    "product_id": "B0C559BCG4",
+    "user_id": "RR3895",
+    "rating": 4,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.410149"
+  },
+  {
+    "review_id": "32a63240-9d70-48cd-97f8-844e3e1a7d9b",
+    "product_id": "B07G5TWZXK",
+    "user_id": "QU5185",
+    "rating": 2,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.410162"
+  },
+  {
+    "review_id": "b6679a4f-58a6-44b4-b71a-e185bb132929",
+    "product_id": "B07X46T141",
+    "user_id": "QU5185",
+    "rating": 2,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.410175"
+  },
+  {
+    "review_id": "4c1714e7-9c8b-4fbe-98a7-a7dec745a4c9",
+    "product_id": "B016XL20UM",
+    "user_id": "QU5185",
+    "rating": 4,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.410188"
+  },
+  {
+    "review_id": "20980caf-55e2-4d86-8555-b470f6c06597",
+    "product_id": "B09H2Z9MFL",
+    "user_id": "QU5185",
+    "rating": 4,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.410199"
+  },
+  {
+    "review_id": "6ccbf9f0-8b18-45db-a897-b38ca73087bd",
+    "product_id": "B09SJ9192T",
+    "user_id": "GU6203",
+    "rating": 5,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.410215"
+  },
+  {
+    "review_id": "9619ea52-f825-4596-a912-ef8ed9f61170",
+    "product_id": "B08K2T4JFQ",
+    "user_id": "GU6203",
+    "rating": 2,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.410228"
+  },
+  {
+    "review_id": "4ebdb166-4ecf-46af-ae52-2d3a88346db2",
+    "product_id": "B0915C35CH",
+    "user_id": "GU6203",
+    "rating": 4,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.410239"
+  },
+  {
+    "review_id": "9b74f274-898f-40cc-898b-5056d5066b8c",
+    "product_id": "B00CY8S41S",
+    "user_id": "EY4119",
+    "rating": 5,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.410250"
+  },
+  {
+    "review_id": "40c86ac3-824f-4b7c-b55c-23aefe12799f",
+    "product_id": "B07QF5117Q",
+    "user_id": "EY4119",
+    "rating": 4,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.410259"
+  },
+  {
+    "review_id": "e6094538-00aa-4583-b9d0-40231eec91cd",
+    "product_id": "B07GJV8JQ4",
+    "user_id": "EY4119",
+    "rating": 4,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.410269"
+  },
+  {
+    "review_id": "260c2eaa-5d5a-45f1-a86c-ce34314ef662",
+    "product_id": "B000AQ8OFC",
+    "user_id": "EY4119",
+    "rating": 5,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.410278"
+  },
+  {
+    "review_id": "e6021607-81ab-4df4-9476-3f82bbab1723",
+    "product_id": "B09SJ9192T",
+    "user_id": "JU9712",
+    "rating": 3,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.410288"
+  },
+  {
+    "review_id": "bb641e84-ea65-4766-b1a9-e92ead54d1a3",
+    "product_id": "B07WWX18K5",
+    "user_id": "JU9712",
+    "rating": 4,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.410297"
+  },
+  {
+    "review_id": "271fcbfa-cf22-4069-8bb4-4791cd4eb870",
+    "product_id": "B0029L7IYY",
+    "user_id": "FZ5843",
+    "rating": 4,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.410306"
+  },
+  {
+    "review_id": "3399233e-ce08-492a-a28f-02e3f50c8335",
+    "product_id": "B07CRKJRT2",
+    "user_id": "FZ5843",
+    "rating": 5,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.410316"
+  },
+  {
+    "review_id": "7ebafee6-f9fe-4022-a987-8ef8423069e4",
+    "product_id": "B0BDQMXQFY",
+    "user_id": "FZ5843",
+    "rating": 5,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.410337"
+  },
+  {
+    "review_id": "9d643388-5688-4b21-a623-491a344aa034",
+    "product_id": "B0BXKWKH5Z",
+    "user_id": "DO3821",
+    "rating": 2,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.410353"
+  },
+  {
+    "review_id": "cb932761-1d5c-409d-b88d-d744cfc65fee",
+    "product_id": "B00CY8S41S",
+    "user_id": "SI7074",
+    "rating": 3,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.410367"
+  },
+  {
+    "review_id": "01a8ee55-6711-41c7-9ee7-a0d6b8fa3292",
+    "product_id": "B01EJZFUFG",
+    "user_id": "SI7074",
+    "rating": 4,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.410381"
+  },
+  {
+    "review_id": "93fd516b-e8ea-4004-a955-368f11c49ecc",
+    "product_id": "B07TB2C8QS",
+    "user_id": "UJ6057",
+    "rating": 4,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.410396"
+  },
+  {
+    "review_id": "be5c6c21-1253-4ba4-9c61-5f306c3de716",
+    "product_id": "B00KO8RLZ0",
+    "user_id": "UJ6057",
+    "rating": 4,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.410406"
+  },
+  {
+    "review_id": "3571db9d-a234-4b00-88f0-54a3ed308831",
+    "product_id": "B07X46T141",
+    "user_id": "UJ6057",
+    "rating": 2,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.410414"
+  },
+  {
+    "review_id": "abe8a50a-15a3-4426-be7b-eaff717113ad",
+    "product_id": "B078YMYB9P",
+    "user_id": "TN2693",
+    "rating": 5,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.410423"
+  },
+  {
+    "review_id": "4b8efd36-b959-43b1-b222-9d5b07723fe1",
+    "product_id": "B099RB31ML",
+    "user_id": "TN2693",
+    "rating": 4,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.410433"
+  },
+  {
+    "review_id": "ea41d197-7ab2-4f0e-9842-eeecca19efa6",
+    "product_id": "B08RS4QZ2K",
+    "user_id": "TN2693",
+    "rating": 5,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.410445"
+  },
+  {
+    "review_id": "b22ce4b1-0601-488b-b14e-63230209b212",
+    "product_id": "B0BF9YKR59",
+    "user_id": "WJ9597",
+    "rating": 2,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.410460"
+  },
+  {
+    "review_id": "e1fdca34-74a8-4adf-881e-de1f982d0bdd",
+    "product_id": "B0029L7IYY",
+    "user_id": "PK0731",
+    "rating": 5,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.410476"
+  },
+  {
+    "review_id": "9fa0ef4b-890c-43e2-bc3a-7db80d0b1ab3",
+    "product_id": "B0BF9YKR59",
+    "user_id": "PK0731",
+    "rating": 4,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.410486"
+  },
+  {
+    "review_id": "5d73c63d-b668-47c3-9358-fb4ffe832e62",
+    "product_id": "B07WVHLQTK",
+    "user_id": "PK0731",
+    "rating": 3,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.410495"
+  },
+  {
+    "review_id": "5215a590-791a-4f3c-abdc-9a6d6dd84940",
+    "product_id": "B078YMYB9P",
+    "user_id": "PK0731",
+    "rating": 3,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.410512"
+  },
+  {
+    "review_id": "b4a0b414-cf0b-4c8f-91b8-32b3143fe4d5",
+    "product_id": "B093N94GPG",
+    "user_id": "ZB6706",
+    "rating": 2,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.410525"
+  },
+  {
+    "review_id": "95375f33-b7c2-4382-98c5-59db0921c78d",
+    "product_id": "B00JYFN9YG",
+    "user_id": "BQ5780",
+    "rating": 2,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.410536"
+  },
+  {
+    "review_id": "f5bed9da-fd2b-4e1a-9588-29479c7d62c9",
+    "product_id": "B07BJ7ZZL7",
+    "user_id": "BQ5780",
+    "rating": 3,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.410551"
+  },
+  {
+    "review_id": "912e272c-b6aa-4898-84fb-a4e6f5011efe",
+    "product_id": "B08GQ2VHQ6",
+    "user_id": "PC5931",
+    "rating": 3,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.410565"
+  },
+  {
+    "review_id": "4c64864f-1a4b-4295-a9e4-3c513ab8b102",
+    "product_id": "B01B7ZNKZ8",
+    "user_id": "PC5931",
+    "rating": 2,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.410647"
+  },
+  {
+    "review_id": "118f0f20-085e-4c58-ba65-15f5dd499ee5",
+    "product_id": "B0B6SQMZ4P",
+    "user_id": "DV3168",
+    "rating": 2,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.410685"
+  },
+  {
+    "review_id": "0685f719-3726-4955-80f6-58dbd2fd9ee8",
+    "product_id": "B0B852M28H",
+    "user_id": "DV3168",
+    "rating": 4,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.410695"
+  },
+  {
+    "review_id": "789fcc1e-53f5-4c60-b339-b7566502ab65",
+    "product_id": "B007VJTUQ8",
+    "user_id": "DV3168",
+    "rating": 2,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.410705"
+  },
+  {
+    "review_id": "5217136e-e154-407d-996c-a86ea9fdff4e",
+    "product_id": "B07Q1JN792",
+    "user_id": "DO0775",
+    "rating": 2,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.410715"
+  },
+  {
+    "review_id": "681c994b-7eba-41ba-b03c-0f26b850c6ce",
+    "product_id": "B0C559BCG4",
+    "user_id": "DO0775",
+    "rating": 3,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.410723"
+  },
+  {
+    "review_id": "4f2cab4c-c25a-45ab-9ef2-958f63c0b69b",
+    "product_id": "B00KO8RLZ0",
+    "user_id": "DO0775",
+    "rating": 3,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.410732"
+  },
+  {
+    "review_id": "21b13624-ef6e-480d-8b5c-f7407ccaec81",
+    "product_id": "B07Y6K1PRB",
+    "user_id": "YN0684",
+    "rating": 5,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.410741"
+  },
+  {
+    "review_id": "955af0bf-1099-4db7-843a-13d6fc6fe55e",
+    "product_id": "B093GWXVC4",
+    "user_id": "YN0684",
+    "rating": 5,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.410749"
+  },
+  {
+    "review_id": "c93aa87e-9d3d-454c-b0ff-e447f1121387",
+    "product_id": "B07N1WJXTY",
+    "user_id": "YN0684",
+    "rating": 2,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.410758"
+  },
+  {
+    "review_id": "b6a052d9-c671-4e51-b2b2-37ad16e7b514",
+    "product_id": "B0BPDXN8MK",
+    "user_id": "NT2041",
+    "rating": 5,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.410767"
+  },
+  {
+    "review_id": "b5856a44-d039-4cfa-83d9-6ca69e130288",
+    "product_id": "B07DYJR44S",
+    "user_id": "NT2041",
+    "rating": 2,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.410775"
+  },
+  {
+    "review_id": "c487c6df-5866-4b6a-853d-4b1af28d055a",
+    "product_id": "B000HHHP7C",
+    "user_id": "NT2041",
+    "rating": 3,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.410786"
+  },
+  {
+    "review_id": "6566b1a6-6683-492d-8077-6b45b39ed279",
+    "product_id": "B07WZT643Q",
+    "user_id": "JV7485",
+    "rating": 3,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.410824"
+  },
+  {
+    "review_id": "df32508d-5873-4498-8ebe-e2b75192adc6",
+    "product_id": "B09YLH6RVV",
+    "user_id": "JV7485",
+    "rating": 4,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.410837"
+  },
+  {
+    "review_id": "7239bb90-5ca2-4826-bdbc-88e3c0dbbfc2",
+    "product_id": "B016XL20UM",
+    "user_id": "JV7485",
+    "rating": 2,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.410846"
+  },
+  {
+    "review_id": "8c67b5ba-2450-47f6-a5d0-2647c339ca94",
+    "product_id": "B0C1Q7DP2X",
+    "user_id": "JV7485",
+    "rating": 2,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.410856"
+  },
+  {
+    "review_id": "f23c5e6d-95cd-4098-9826-99362621454c",
+    "product_id": "B007JT4AW4",
+    "user_id": "OY4582",
+    "rating": 5,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.410865"
+  },
+  {
+    "review_id": "8605ad05-1ac1-4538-8bd7-fbfab2d24ab1",
+    "product_id": "B0B3SMDK54",
+    "user_id": "OY4582",
+    "rating": 3,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.410874"
+  },
+  {
+    "review_id": "12925739-92d3-4740-b6c1-9ba81e30d982",
+    "product_id": "B071YJFTV4",
+    "user_id": "NT2041",
+    "rating": 4,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.410884"
+  },
+  {
+    "review_id": "75bea200-b665-4b6b-9f99-5a49f7a5f737",
+    "product_id": "B09SJ9192T",
+    "user_id": "NT2041",
+    "rating": 3,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.410892"
+  },
+  {
+    "review_id": "36b89d07-9720-46ae-9263-70bf5fe9119d",
+    "product_id": "B0BDQMXQFY",
+    "user_id": "NT2041",
+    "rating": 2,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.410901"
+  },
+  {
+    "review_id": "678554ac-a375-494e-b75c-909b92b504f3",
+    "product_id": "B07H8QWTPH",
+    "user_id": "NT2041",
+    "rating": 5,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.410913"
+  },
+  {
+    "review_id": "e419d438-6e9d-45fc-bd0c-dbbe512f5df9",
+    "product_id": "B0915C35CH",
+    "user_id": "IT4452",
+    "rating": 5,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.410927"
+  },
+  {
+    "review_id": "a844c82f-5519-48f9-9c76-a02696a4c3ac",
+    "product_id": "B07Y6K1PRB",
+    "user_id": "IT4452",
+    "rating": 2,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.410941"
+  },
+  {
+    "review_id": "58b025a2-d5b2-4037-a653-aec492fac37c",
+    "product_id": "B01B7ZNKZ8",
+    "user_id": "IT4452",
+    "rating": 3,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.410952"
+  },
+  {
+    "review_id": "1dd0561a-1f4a-4c5e-ac8e-31e964f01556",
+    "product_id": "B0C5XLH1HM",
+    "user_id": "IT4452",
+    "rating": 2,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.410960"
+  },
+  {
+    "review_id": "1636ccf9-fc0c-4604-8175-eebe6a4a1146",
+    "product_id": "B07M67FJDB",
+    "user_id": "UU3187",
+    "rating": 3,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.410970"
+  },
+  {
+    "review_id": "93ec932e-8910-45c9-96eb-3dd52f20b36c",
+    "product_id": "B0067HY1EQ",
+    "user_id": "AF4103",
+    "rating": 5,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.410980"
+  },
+  {
+    "review_id": "93ce5666-2829-4097-9d8b-5ffa18bf0f55",
+    "product_id": "B00XIMZT8A",
+    "user_id": "AF4103",
+    "rating": 2,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.410989"
+  },
+  {
+    "review_id": "eb56090f-87b3-4bdf-9a0e-c88ea58499f9",
+    "product_id": "B0071SSBPK",
+    "user_id": "AF4103",
+    "rating": 3,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.410997"
+  },
+  {
+    "review_id": "9481b719-9172-4ffd-a4d9-15467971e93b",
+    "product_id": "B07BJ7ZZL7",
+    "user_id": "CF6584",
+    "rating": 3,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.411036"
+  },
+  {
+    "review_id": "49313dc8-fdf5-4e2b-84c0-aa336dca02ba",
+    "product_id": "B07PS6M97W",
+    "user_id": "CF6584",
+    "rating": 3,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.411064"
+  },
+  {
+    "review_id": "da3e5059-153f-4900-86b3-6557340ec1cc",
+    "product_id": "B0BYBG1PPD",
+    "user_id": "CF6584",
+    "rating": 4,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.411077"
+  },
+  {
+    "review_id": "57f1e5c6-531b-43a8-8e5a-8e70544a4aa0",
+    "product_id": "B07VJXK7BV",
+    "user_id": "CF6584",
+    "rating": 3,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.411087"
+  },
+  {
+    "review_id": "0b26f667-d7d8-4298-9aee-ed4d446a978d",
+    "product_id": "B07MKWC2XN",
+    "user_id": "WM8830",
+    "rating": 3,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.411097"
+  },
+  {
+    "review_id": "d8b275ae-e92c-489d-ade1-d2f202dc3c15",
+    "product_id": "B000HHHP7C",
+    "user_id": "WM8830",
+    "rating": 5,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.411106"
+  },
+  {
+    "review_id": "d56a1f32-8d6e-4f23-90be-74e9dd2498b9",
+    "product_id": "B07FZ21VWY",
+    "user_id": "UB0288",
+    "rating": 2,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.411115"
+  },
+  {
+    "review_id": "5db4bf42-2c68-4a5f-b3a0-3c7a0c41e317",
+    "product_id": "B0BNV9DJVK",
+    "user_id": "UB0288",
+    "rating": 5,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.411125"
+  },
+  {
+    "review_id": "2ddced47-087c-4751-926e-db93b51d385c",
+    "product_id": "B00R6R82HS",
+    "user_id": "HV2078",
+    "rating": 4,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.411139"
+  },
+  {
+    "review_id": "9d79b880-3bd1-400a-861c-489d631a7101",
+    "product_id": "B0C1Q7DP2X",
+    "user_id": "RE3478",
+    "rating": 5,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.411152"
+  },
+  {
+    "review_id": "c8aaefc8-fa92-48df-9b77-60e7b5eaa863",
+    "product_id": "B016XL20UM",
+    "user_id": "RE3478",
+    "rating": 4,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.411161"
+  },
+  {
+    "review_id": "690dd4c1-9063-4ae6-930f-429e66a53183",
+    "product_id": "B0BL2GDGHK",
+    "user_id": "EP9471",
+    "rating": 5,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.411170"
+  },
+  {
+    "review_id": "e3f482e6-8c68-4241-8c39-ed9194d5e810",
+    "product_id": "B09QSNNBBV",
+    "user_id": "EP9471",
+    "rating": 2,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.411178"
+  },
+  {
+    "review_id": "58667d33-21da-4378-b56d-82d8bb8ffa59",
+    "product_id": "B01N1TCT1Z",
+    "user_id": "EP9471",
+    "rating": 2,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.411187"
+  },
+  {
+    "review_id": "e92c149d-9e0e-4f07-949c-94baae701f02",
+    "product_id": "B00YW49ZJC",
+    "user_id": "VR1566",
+    "rating": 3,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.411195"
+  },
+  {
+    "review_id": "2e846a4e-2787-4876-92dc-8ee2015bb55e",
+    "product_id": "B0C559BCG4",
+    "user_id": "NO4133",
+    "rating": 3,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.411205"
+  },
+  {
+    "review_id": "38f96570-2e91-4570-9790-fd09c091e44b",
+    "product_id": "B000I7VWKC",
+    "user_id": "NO4133",
+    "rating": 4,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.411214"
+  },
+  {
+    "review_id": "11fff2ee-d8c7-4c94-aba1-45c9575613c9",
+    "product_id": "B0045ZMWPM",
+    "user_id": "IM7139",
+    "rating": 4,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.411223"
+  },
+  {
+    "review_id": "802deefa-8e9a-4f2b-8cc6-3e969c23ca0a",
+    "product_id": "B01HME9RX2",
+    "user_id": "IM7139",
+    "rating": 4,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.411232"
+  },
+  {
+    "review_id": "330c54a9-b3dd-4c7a-91fd-82de95d98643",
+    "product_id": "B08X2DCF2B",
+    "user_id": "IM7139",
+    "rating": 5,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.411240"
+  },
+  {
+    "review_id": "4e0c81db-2937-4189-a96c-26d17a88fc2d",
+    "product_id": "B01MZA1AB2",
+    "user_id": "IM7139",
+    "rating": 5,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.411250"
+  },
+  {
+    "review_id": "e0f9284b-618c-4327-8144-b8fea152edea",
+    "product_id": "B0BJ7F4W33",
+    "user_id": "UK0436",
+    "rating": 4,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.411259"
+  },
+  {
+    "review_id": "d9c12f2b-7069-464c-a5ee-e30cb231467e",
+    "product_id": "B0C5XLH1HM",
+    "user_id": "UK0436",
+    "rating": 4,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.411272"
+  },
+  {
+    "review_id": "ed90c6b2-d007-45d6-89d8-f92aa0b7d8dc",
+    "product_id": "B09WV945TZ",
+    "user_id": "UK0436",
+    "rating": 3,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.411284"
+  },
+  {
+    "review_id": "d336e4c1-da5b-4cc7-80b9-6fcd5583d027",
+    "product_id": "B01DLNTUYY",
+    "user_id": "NI1623",
+    "rating": 3,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.411299"
+  },
+  {
+    "review_id": "d3b3ce60-c956-471d-87e4-117f686c7ba6",
+    "product_id": "B00SK8LK1W",
+    "user_id": "UJ6057",
+    "rating": 3,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.411309"
+  },
+  {
+    "review_id": "5018627b-ddc7-47cb-a168-acd981362941",
+    "product_id": "B0BX49PM8V",
+    "user_id": "UJ6057",
+    "rating": 5,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.411318"
+  },
+  {
+    "review_id": "304f63d4-680a-43d5-9b96-d7af571f4fb9",
+    "product_id": "B0BP7FT28L",
+    "user_id": "UJ6057",
+    "rating": 2,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.411327"
+  },
+  {
+    "review_id": "43c2b05b-f2cd-4b17-bba8-a06c09845f3a",
+    "product_id": "B01B7ZNKZ8",
+    "user_id": "WJ9597",
+    "rating": 4,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.411340"
+  },
+  {
+    "review_id": "86deb543-4532-46a7-b14e-b6724b8856bd",
+    "product_id": "B09J56DSX4",
+    "user_id": "WJ9597",
+    "rating": 5,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.411355"
+  },
+  {
+    "review_id": "aee674f4-8194-424f-ad04-6884469359bb",
+    "product_id": "B0B3SMDK54",
+    "user_id": "WJ9597",
+    "rating": 2,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.411363"
+  },
+  {
+    "review_id": "85795056-83e9-4f8a-941b-b3ee0beb42da",
+    "product_id": "B07DYJR44S",
+    "user_id": "XR5368",
+    "rating": 3,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.411373"
+  },
+  {
+    "review_id": "a8e52de3-67bf-45d2-be20-54c972b37894",
+    "product_id": "B0753Y5RTG",
+    "user_id": "XR5368",
+    "rating": 4,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.411383"
+  },
+  {
+    "review_id": "2e1f8219-8978-4ded-b420-fc5cae4506bf",
+    "product_id": "B08862M8VY",
+    "user_id": "XR5368",
+    "rating": 5,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.411391"
+  },
+  {
+    "review_id": "ac4fc8fb-1548-40a5-bce2-09614c3e163d",
+    "product_id": "B07TB2C8QS",
+    "user_id": "XR5368",
+    "rating": 3,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.411400"
+  },
+  {
+    "review_id": "626ab77d-dc3e-4a0d-ac2e-2a15db13e727",
+    "product_id": "B09CL2VNPJ",
+    "user_id": "IX2228",
+    "rating": 4,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.411409"
+  },
+  {
+    "review_id": "6a8f64a9-a401-4524-91b4-506732b5abe4",
+    "product_id": "B07XHT7GM4",
+    "user_id": "WC8864",
+    "rating": 5,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.411418"
+  },
+  {
+    "review_id": "0cb79a21-117e-45bb-8bc5-c552279fde44",
+    "product_id": "B078GKFJ9M",
+    "user_id": "WC8864",
+    "rating": 3,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.411439"
+  },
+  {
+    "review_id": "90c3a30f-f00d-42c9-a748-84886b9da5fb",
+    "product_id": "B0B1BXC6W1",
+    "user_id": "WC8864",
+    "rating": 4,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.411537"
+  },
+  {
+    "review_id": "ba45c0e1-6fb2-48bd-a9cb-6020ab995f88",
+    "product_id": "B07ZZ595TG",
+    "user_id": "WC8864",
+    "rating": 5,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.411584"
+  },
+  {
+    "review_id": "a95e6ea2-cf64-4126-b07c-45ba5cff41b3",
+    "product_id": "B07VLDQMV3",
+    "user_id": "QG2837",
+    "rating": 4,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.411600"
+  },
+  {
+    "review_id": "a1869aa7-65a4-4e79-8f5c-8113ed4620bb",
+    "product_id": "B0BL2GDGHK",
+    "user_id": "QG2837",
+    "rating": 4,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.411611"
+  },
+  {
+    "review_id": "4a4f5dfd-f1b9-4d43-9d49-000f1d64b825",
+    "product_id": "B0B9GX98SX",
+    "user_id": "CD6729",
+    "rating": 4,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.411621"
+  },
+  {
+    "review_id": "842db9e8-5ad5-49c2-ae9a-fba13f718078",
+    "product_id": "B018UK9Y6M",
+    "user_id": "CD6729",
+    "rating": 4,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.411631"
+  },
+  {
+    "review_id": "94329bea-c2c3-48c5-9600-0e0a4f01cf96",
+    "product_id": "B005T6TJIO",
+    "user_id": "CD6729",
+    "rating": 4,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.411640"
+  },
+  {
+    "review_id": "e5d7f486-b86b-4bbc-94d2-aca4c2a5eb8d",
+    "product_id": "B078GTQQF9",
+    "user_id": "RE3478",
+    "rating": 3,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.411649"
+  },
+  {
+    "review_id": "bde8a555-655b-4cc7-95e3-d9c5799f8579",
+    "product_id": "B00A493CNY",
+    "user_id": "RE3478",
+    "rating": 3,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.411659"
+  },
+  {
+    "review_id": "686aa32f-ca08-4f62-a54d-88fd4b08fb46",
+    "product_id": "B09SJ9192T",
+    "user_id": "KH7634",
+    "rating": 3,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.411668"
+  },
+  {
+    "review_id": "c36da0aa-1469-479c-a57e-14424195dc7f",
+    "product_id": "B0949F55S3",
+    "user_id": "KH7634",
+    "rating": 5,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.411677"
+  },
+  {
+    "review_id": "b0ea064e-e3d2-4e07-9d57-4109a3d075b3",
+    "product_id": "B003XT6OTG",
+    "user_id": "KH7634",
+    "rating": 3,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.411686"
+  },
+  {
+    "review_id": "1b6c9943-fcf6-4c9d-836e-f04e9ba5131b",
+    "product_id": "B01EJZFUFG",
+    "user_id": "IS2260",
+    "rating": 4,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.411695"
+  },
+  {
+    "review_id": "96aaa952-a9cf-4592-b8f7-59031f89d4f6",
+    "product_id": "B07TB2C8QS",
+    "user_id": "IS2260",
+    "rating": 3,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.411704"
+  },
+  {
+    "review_id": "f339cc86-7747-4a52-b4e2-78c45974558b",
+    "product_id": "B078GTQQF9",
+    "user_id": "IS2260",
+    "rating": 2,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.411712"
+  },
+  {
+    "review_id": "b46c0470-312c-419d-b091-2013f80063e3",
+    "product_id": "B0949F55S3",
+    "user_id": "IS2260",
+    "rating": 5,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.411722"
+  },
+  {
+    "review_id": "cb2bde45-c76b-496b-aece-2373fa73dcd6",
+    "product_id": "B09J56DSX4",
+    "user_id": "IY5440",
+    "rating": 2,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.411735"
+  },
+  {
+    "review_id": "97c228ea-428e-4045-a117-e1c9321270c8",
+    "product_id": "B098ZFMY25",
+    "user_id": "IF1747",
+    "rating": 3,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.411750"
+  },
+  {
+    "review_id": "e9fb10f3-8d06-435c-988f-02e9cb647598",
+    "product_id": "B0BKS1K986",
+    "user_id": "IF1747",
+    "rating": 4,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.411764"
+  },
+  {
+    "review_id": "6aa20a5e-7667-4d1f-8178-2ecabb83537b",
+    "product_id": "B07PS6M97W",
+    "user_id": "IF1747",
+    "rating": 5,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.411774"
+  },
+  {
+    "review_id": "291c9c8d-3caa-459b-b259-ae92dd8b8f04",
+    "product_id": "B07TB2C8QS",
+    "user_id": "YC8528",
+    "rating": 4,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.411784"
+  },
+  {
+    "review_id": "b78a12cb-7542-44ed-8bbb-40d5295f1c89",
+    "product_id": "B0BXKWKH5Z",
+    "user_id": "YC8528",
+    "rating": 2,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.411793"
+  },
+  {
+    "review_id": "1ea47074-5716-412c-a384-dbfd750d4ca9",
+    "product_id": "B0C1Q7DP2X",
+    "user_id": "YC8528",
+    "rating": 3,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.411802"
+  },
+  {
+    "review_id": "8b7de952-78ba-46d5-825c-ef7672a1870b",
+    "product_id": "B0B1BXC6W1",
+    "user_id": "YC8528",
+    "rating": 4,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.411810"
+  },
+  {
+    "review_id": "a30985cd-e998-476e-8c15-9b977f969d46",
+    "product_id": "B078YMYB9P",
+    "user_id": "HG5195",
+    "rating": 3,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.411820"
+  },
+  {
+    "review_id": "68b76256-fc1b-4e88-aa2b-28caa2acf0d7",
+    "product_id": "B0C559BCG4",
+    "user_id": "HG5195",
+    "rating": 3,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.411829"
+  },
+  {
+    "review_id": "f468d58d-f416-4bbc-b66d-2298fd4c003d",
+    "product_id": "B07QF5117Q",
+    "user_id": "HG5195",
+    "rating": 2,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.411838"
+  },
+  {
+    "review_id": "32e46bef-306d-4046-bc2a-b04561768dfd",
+    "product_id": "B0B6P5NF2Z",
+    "user_id": "XQ8266",
+    "rating": 5,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.411848"
+  },
+  {
+    "review_id": "70591fdf-a983-4e46-a9bf-2382cfc3d2bd",
+    "product_id": "B07Y8T5GTV",
+    "user_id": "XQ8266",
+    "rating": 3,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.411883"
+  },
+  {
+    "review_id": "102b694f-e72a-4574-b06a-00aed1b8851e",
+    "product_id": "B000HHHP7C",
+    "user_id": "XQ8266",
+    "rating": 3,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.411896"
+  },
+  {
+    "review_id": "ebf028ad-cc6e-42a3-b37c-80e75f1af395",
+    "product_id": "B0BDQMXQFY",
+    "user_id": "JC2214",
+    "rating": 3,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.411909"
+  },
+  {
+    "review_id": "f8e81857-08ec-41a7-9e97-59f0f46a68d7",
+    "product_id": "B00XISYQ06",
+    "user_id": "JC2214",
+    "rating": 3,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.411920"
+  },
+  {
+    "review_id": "5daf1040-730f-4f31-859c-af61068243c0",
+    "product_id": "B00R6R82HS",
+    "user_id": "HP3179",
+    "rating": 4,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.411929"
+  },
+  {
+    "review_id": "098f5a38-946f-4de6-9a6f-d8a27d2cb363",
+    "product_id": "B0BJL1MZ16",
+    "user_id": "HP3179",
+    "rating": 4,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.411938"
+  },
+  {
+    "review_id": "e946dfd3-fe46-4d5e-be06-6831ff57efb7",
+    "product_id": "B01EJZFUFG",
+    "user_id": "IS9436",
+    "rating": 2,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.411953"
+  },
+  {
+    "review_id": "64f7fa85-cc62-4286-91e4-bc559a077c9e",
+    "product_id": "B07WVHLQTK",
+    "user_id": "IS9436",
+    "rating": 3,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.411962"
+  },
+  {
+    "review_id": "9f324ff8-b3fa-4df1-aee2-9bb92df3f96c",
+    "product_id": "B07MKWC2XN",
+    "user_id": "IS9436",
+    "rating": 3,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.411972"
+  },
+  {
+    "review_id": "1914e585-8d36-436b-a268-d63dcc5d540b",
+    "product_id": "B07TB2C8QS",
+    "user_id": "IS9436",
+    "rating": 2,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.411981"
+  },
+  {
+    "review_id": "7d18a041-1fc9-4675-9c65-baa1d11eb926",
+    "product_id": "B0B9GX98SX",
+    "user_id": "HV2078",
+    "rating": 5,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.411994"
+  },
+  {
+    "review_id": "17020cd0-0b19-482e-b1bb-449a502d61ad",
+    "product_id": "B07ZZ595TG",
+    "user_id": "HV2078",
+    "rating": 5,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.412007"
+  },
+  {
+    "review_id": "bf21e8f1-6477-40cb-a0e8-7a466a01ae5d",
+    "product_id": "B01AC7EOL6",
+    "user_id": "HV2078",
+    "rating": 5,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.412068"
+  },
+  {
+    "review_id": "ffcbf494-5007-4464-8060-514f90a2f3b1",
+    "product_id": "B08GQ2VHQ6",
+    "user_id": "NU3336",
+    "rating": 5,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.412078"
+  },
+  {
+    "review_id": "bf380f1f-d4af-4d1b-a6be-f3f709e0adee",
+    "product_id": "B08BCB52MR",
+    "user_id": "NU3336",
+    "rating": 5,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.412090"
+  },
+  {
+    "review_id": "cd375474-11ca-416c-afc4-40c729038522",
+    "product_id": "B07MKWC2XN",
+    "user_id": "NU3336",
+    "rating": 5,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.412103"
+  },
+  {
+    "review_id": "2aed473c-ca27-478b-b1ba-4a76ce98ad91",
+    "product_id": "B07WVHLQTK",
+    "user_id": "NU3336",
+    "rating": 5,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.412115"
+  },
+  {
+    "review_id": "dba8e98b-3903-4981-a6d2-59645b940380",
+    "product_id": "B0C3C5S2H3",
+    "user_id": "NL9391",
+    "rating": 5,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.412129"
+  },
+  {
+    "review_id": "74e787b1-ae26-483d-b3fc-bcdbf14d9b82",
+    "product_id": "B00AZOIG9I",
+    "user_id": "NL9391",
+    "rating": 4,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.412142"
+  },
+  {
+    "review_id": "edf67fbd-b473-420e-a20f-86836dbe8502",
+    "product_id": "B06XKRXLDR",
+    "user_id": "HO1222",
+    "rating": 2,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.412154"
+  },
+  {
+    "review_id": "bbb5d260-9f66-43ce-a672-a37c3f559a4f",
+    "product_id": "B078GKFJ9M",
+    "user_id": "SS4748",
+    "rating": 2,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.412163"
+  },
+  {
+    "review_id": "32bb0daf-ba21-4193-ba03-a6cea69a70d7",
+    "product_id": "B087NHW5FZ",
+    "user_id": "SS4748",
+    "rating": 3,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.412173"
+  },
+  {
+    "review_id": "d386c361-0df4-46c2-89cb-2f1fc466ef3b",
+    "product_id": "B08225X6DB",
+    "user_id": "SS4748",
+    "rating": 4,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.412182"
+  },
+  {
+    "review_id": "33d98627-16e4-4034-ba2f-f6b1b5d412db",
+    "product_id": "B007JT4AW4",
+    "user_id": "SS4748",
+    "rating": 4,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.412190"
+  },
+  {
+    "review_id": "da7724af-5d46-40fe-94e2-6d168247ec26",
+    "product_id": "B00XIT6C20",
+    "user_id": "YD2572",
+    "rating": 4,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.412203"
+  },
+  {
+    "review_id": "bccbcd3e-73ac-4519-92c4-98955579342c",
+    "product_id": "B07QF5117Q",
+    "user_id": "YD2572",
+    "rating": 5,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.412215"
+  },
+  {
+    "review_id": "2fa25c95-a1f8-486b-8b18-17c1a11990c8",
+    "product_id": "B01N4IEZ67",
+    "user_id": "YD2572",
+    "rating": 2,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.412227"
+  },
+  {
+    "review_id": "19e10953-6558-4bfd-9aa6-e6ab4012a311",
+    "product_id": "B0915C35CH",
+    "user_id": "YD2572",
+    "rating": 2,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.412236"
+  },
+  {
+    "review_id": "bb660a20-ec95-4200-9f8d-9d8279aeb851",
+    "product_id": "B08254WPLJ",
+    "user_id": "IE3341",
+    "rating": 3,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.412246"
+  },
+  {
+    "review_id": "944f60f7-90c1-4b4c-a7e6-3029e5a03a7e",
+    "product_id": "B08S7RR9JJ",
+    "user_id": "IE3341",
+    "rating": 3,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.412255"
+  },
+  {
+    "review_id": "93d4ac29-29a3-4ce2-827a-0798c40f5021",
+    "product_id": "B0BPDXN8MK",
+    "user_id": "AS9707",
+    "rating": 4,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.412266"
+  },
+  {
+    "review_id": "fe9afb49-b8cb-4c1b-86b9-19de94902d52",
+    "product_id": "B005T6TJIO",
+    "user_id": "AS9707",
+    "rating": 5,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.412275"
+  },
+  {
+    "review_id": "827602ae-0298-4860-9b76-1e179d3e318c",
+    "product_id": "B0BKS1K986",
+    "user_id": "AS9707",
+    "rating": 5,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.412286"
+  },
+  {
+    "review_id": "02397913-eece-4ee1-82a4-645c35310a3e",
+    "product_id": "B00BGFTSGU",
+    "user_id": "FP7916",
+    "rating": 2,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.412300"
+  },
+  {
+    "review_id": "e54d53a4-28f7-4b0e-96d7-165580608c4e",
+    "product_id": "B00A493CNY",
+    "user_id": "TH8101",
+    "rating": 4,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.412313"
+  },
+  {
+    "review_id": "f20e9b24-f358-451d-83fc-8f4c16075532",
+    "product_id": "B07PS6M97W",
+    "user_id": "IE3341",
+    "rating": 4,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.412323"
+  },
+  {
+    "review_id": "f8753372-9d78-4881-af6c-bf6bd38ce809",
+    "product_id": "B07848ZT9T",
+    "user_id": "IE3341",
+    "rating": 5,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.412332"
+  },
+  {
+    "review_id": "2d2be399-b3c4-4218-9bb4-578c090c863a",
+    "product_id": "B07X46T141",
+    "user_id": "IE3341",
+    "rating": 5,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.412341"
+  },
+  {
+    "review_id": "d7bf7da0-7077-44cc-ab78-4931ffa44ce1",
+    "product_id": "B07G5TWZXK",
+    "user_id": "VA2924",
+    "rating": 4,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.412352"
+  },
+  {
+    "review_id": "13dbd7e6-34ae-4363-8b96-3ac1fecc7a0c",
+    "product_id": "B005DL1IJS",
+    "user_id": "VA2924",
+    "rating": 5,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.412366"
+  },
+  {
+    "review_id": "333d9995-06c0-4e62-8314-d068456e25e6",
+    "product_id": "B08RS4QZ2K",
+    "user_id": "VA2924",
+    "rating": 3,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.412378"
+  },
+  {
+    "review_id": "704a97bd-8664-48ab-9c9e-2f6b097f88bd",
+    "product_id": "B0B6P5NF2Z",
+    "user_id": "VA2924",
+    "rating": 4,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.412387"
+  },
+  {
+    "review_id": "28a40a46-1b32-4472-9afd-4bf7fa401e02",
+    "product_id": "B07TB2C8QS",
+    "user_id": "IE3341",
+    "rating": 5,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.412398"
+  },
+  {
+    "review_id": "f0e0f142-6203-4c69-8bd5-bf8f4fbb9aa9",
+    "product_id": "B07WZT643Q",
+    "user_id": "IE3341",
+    "rating": 5,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.412407"
+  },
+  {
+    "review_id": "5a4afdff-8906-4333-9d6a-a5a964feb69d",
+    "product_id": "B0BF9YKR59",
+    "user_id": "IE3341",
+    "rating": 4,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.412416"
+  },
+  {
+    "review_id": "0572f360-7fa9-4c1d-8d13-2aabef779e26",
+    "product_id": "B00R6R82HS",
+    "user_id": "PK0731",
+    "rating": 5,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.412426"
+  },
+  {
+    "review_id": "ec635c16-9b8f-44ff-8db5-e73f0af2c01c",
+    "product_id": "B071VQ9Y8W",
+    "user_id": "PK0731",
+    "rating": 5,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.412441"
+  },
+  {
+    "review_id": "4300ebdb-69d6-4229-94b2-27ab402fb4ab",
+    "product_id": "B0BZY82YDR",
+    "user_id": "IX3097",
+    "rating": 4,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.412451"
+  },
+  {
+    "review_id": "04187c79-be58-46a3-9503-141bf52e6a4a",
+    "product_id": "B008GYKN68",
+    "user_id": "IX3097",
+    "rating": 2,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.412460"
+  },
+  {
+    "review_id": "8fd1a504-e513-46e6-8d88-6f4e2ad2456e",
+    "product_id": "B0BP7FT28L",
+    "user_id": "IX3097",
+    "rating": 4,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.412468"
+  },
+  {
+    "review_id": "9fab4952-0c09-49af-986a-9e792a8e79a2",
+    "product_id": "B018UK9Y6M",
+    "user_id": "EW6915",
+    "rating": 4,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.412479"
+  },
+  {
+    "review_id": "44774e38-6634-4562-92d5-86243f203946",
+    "product_id": "B00SK8LK1W",
+    "user_id": "EW6915",
+    "rating": 5,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.412487"
+  },
+  {
+    "review_id": "23162b23-3fe8-4bad-9ebe-d7aae645217b",
+    "product_id": "B0949F55S3",
+    "user_id": "EW6915",
+    "rating": 2,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.412496"
+  },
+  {
+    "review_id": "7b99cce0-d946-45cd-80f0-bb05a59d1422",
+    "product_id": "B00M9AEJQA",
+    "user_id": "EW6915",
+    "rating": 5,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.412505"
+  },
+  {
+    "review_id": "3ed94ad8-9594-44ba-83c4-a166e19db282",
+    "product_id": "B01AC7CC24",
+    "user_id": "JV2057",
+    "rating": 2,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.412514"
+  },
+  {
+    "review_id": "f1b6d10a-17f3-48b8-8535-617fe2399d9e",
+    "product_id": "B08BCB52MR",
+    "user_id": "JV2057",
+    "rating": 3,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.412523"
+  },
+  {
+    "review_id": "6fc909e9-5881-4081-b504-5238ea2b0af5",
+    "product_id": "B08LPNPFC4",
+    "user_id": "YM4189",
+    "rating": 4,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.412533"
+  },
+  {
+    "review_id": "4a68dbc6-18ba-4c1c-82bf-1a4644af089e",
+    "product_id": "B0BGPG7ZNM",
+    "user_id": "UJ6057",
+    "rating": 2,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.412543"
+  },
+  {
+    "review_id": "3fc13377-31df-492b-981f-15f8dea95269",
+    "product_id": "B092891PY2",
+    "user_id": "UJ6057",
+    "rating": 3,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.412553"
+  },
+  {
+    "review_id": "8fe461bb-ecab-4840-9bb7-fea4ba124826",
+    "product_id": "B0071SSBPK",
+    "user_id": "IZ5066",
+    "rating": 4,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.412562"
+  },
+  {
+    "review_id": "a6937752-ccec-4adc-a3df-947c3627861c",
+    "product_id": "B00XISYQ06",
+    "user_id": "IZ5066",
+    "rating": 5,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.412570"
+  },
+  {
+    "review_id": "5dcef9e7-97ea-4ee7-8ab9-9dfc15507b5e",
+    "product_id": "B0BPLX8B2K",
+    "user_id": "IZ5066",
+    "rating": 5,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.412579"
+  },
+  {
+    "review_id": "952cbf5a-c235-4d64-a1e7-1642a988f525",
+    "product_id": "B0B7JQWK1Q",
+    "user_id": "IZ5066",
+    "rating": 5,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.412589"
+  },
+  {
+    "review_id": "e5d472e5-0673-465d-a956-b60b88c49a18",
+    "product_id": "B004TNKXBU",
+    "user_id": "YC8528",
+    "rating": 5,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.412599"
+  },
+  {
+    "review_id": "48dcb4d9-79a2-4eb3-8043-ba9c55f4c5eb",
+    "product_id": "B087V6XHNV",
+    "user_id": "YC8528",
+    "rating": 4,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.412607"
+  },
+  {
+    "review_id": "f29c40b6-a933-4935-93e6-e94d85fc6a03",
+    "product_id": "B0743MQB7N",
+    "user_id": "BB4332",
+    "rating": 3,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.412617"
+  },
+  {
+    "review_id": "2fc1d954-b3f1-48b5-a94e-938b25561156",
+    "product_id": "B00R6R82HS",
+    "user_id": "BB4332",
+    "rating": 5,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.412630"
+  },
+  {
+    "review_id": "e2e6a234-2912-4ee9-b45a-22d803e44366",
+    "product_id": "B089CNGZCW",
+    "user_id": "BB4332",
+    "rating": 4,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.412645"
+  },
+  {
+    "review_id": "4e77812f-7fd4-465f-b63b-874e6e3c9838",
+    "product_id": "B08DP1YZP8",
+    "user_id": "BB4332",
+    "rating": 3,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.412657"
+  },
+  {
+    "review_id": "c19afbb4-d2d5-4ca9-8ad4-1a543e51cbf0",
+    "product_id": "B0C3VJHW5Z",
+    "user_id": "MT6830",
+    "rating": 4,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.412671"
+  },
+  {
+    "review_id": "046fbde6-8cf0-4cca-9166-c7137aa0987f",
+    "product_id": "B07C4YHF4L",
+    "user_id": "OV8138",
+    "rating": 2,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.412683"
+  },
+  {
+    "review_id": "ab7b5dcf-45d1-4628-8317-80ec8ff581e0",
+    "product_id": "B08862M8VY",
+    "user_id": "OV8138",
+    "rating": 2,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.412695"
+  },
+  {
+    "review_id": "ab3f0746-5c98-4a35-bc01-281e93c43381",
+    "product_id": "B093N94GPG",
+    "user_id": "HY8503",
+    "rating": 2,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.412708"
+  },
+  {
+    "review_id": "5f3082c0-f071-4eb6-a3d6-7a489e7f7546",
+    "product_id": "B07WZT643Q",
+    "user_id": "HY8503",
+    "rating": 2,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.412719"
+  },
+  {
+    "review_id": "ea0d9277-6229-4739-87f8-6b0504078492",
+    "product_id": "B08S7RR9JJ",
+    "user_id": "VV7756",
+    "rating": 3,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.412734"
+  },
+  {
+    "review_id": "f2c16537-3a56-449e-bae8-ce56f1fefdd6",
+    "product_id": "B00XIMZT8A",
+    "user_id": "VV7756",
+    "rating": 5,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.412749"
+  },
+  {
+    "review_id": "78fff941-7aef-4db1-8c02-9c1597c41f3c",
+    "product_id": "B00XISYQ06",
+    "user_id": "VV7756",
+    "rating": 3,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.412760"
+  },
+  {
+    "review_id": "437c833e-d594-4385-8044-88e96c91efdb",
+    "product_id": "B07PCMZVTF",
+    "user_id": "FZ4286",
+    "rating": 3,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.412773"
+  },
+  {
+    "review_id": "69ee4ea9-7c57-4187-a88e-ee97d593c562",
+    "product_id": "B0BYBG1PPD",
+    "user_id": "FZ4286",
+    "rating": 3,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.412785"
+  },
+  {
+    "review_id": "4190805d-7eea-47e5-afe3-6a0a24aa5c7f",
+    "product_id": "B0BF9YKR59",
+    "user_id": "FZ4286",
+    "rating": 4,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.412799"
+  },
+  {
+    "review_id": "9ec38301-7a6d-4402-a1a1-42b36fb175ad",
+    "product_id": "B0915C35CH",
+    "user_id": "FZ4286",
+    "rating": 3,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.412812"
+  },
+  {
+    "review_id": "30703e70-9245-42f5-bef6-c4bba8c40041",
+    "product_id": "B0BKS1K986",
+    "user_id": "YC8528",
+    "rating": 2,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.412827"
+  },
+  {
+    "review_id": "54a93b3e-cf55-472a-b6cd-3c696feabe23",
+    "product_id": "B0949F55S3",
+    "user_id": "YC8528",
+    "rating": 5,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.412843"
+  },
+  {
+    "review_id": "d7cbd73f-b59c-4b3d-be7c-975216ae45ff",
+    "product_id": "B0821M984B",
+    "user_id": "YC8528",
+    "rating": 5,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.412856"
+  },
+  {
+    "review_id": "2396d9df-04fa-4971-8d20-5ee8e8d107f0",
+    "product_id": "B0B3SMDK54",
+    "user_id": "YS8311",
+    "rating": 5,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.412868"
+  },
+  {
+    "review_id": "51decccc-2712-494c-b53c-e2ea930f285b",
+    "product_id": "B071YJFTV4",
+    "user_id": "YS8311",
+    "rating": 3,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.412877"
+  },
+  {
+    "review_id": "4bcd10cd-0f95-45a7-8799-5cef8e51bc01",
+    "product_id": "B08JZ5CFWZ",
+    "user_id": "QP9826",
+    "rating": 2,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.412886"
+  },
+  {
+    "review_id": "122d9e56-d87f-4e53-b15b-7e93a1df2972",
+    "product_id": "B0B9GX98SX",
+    "user_id": "UB0288",
+    "rating": 3,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.412898"
+  },
+  {
+    "review_id": "29a8594d-2fa1-460e-b872-a601c945e407",
+    "product_id": "B07VLDQMV3",
+    "user_id": "UB0288",
+    "rating": 3,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.412906"
+  },
+  {
+    "review_id": "938ff34b-1249-4665-90d7-fbd9c0189a35",
+    "product_id": "B07Y6K1PRB",
+    "user_id": "JU5782",
+    "rating": 4,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.412915"
+  },
+  {
+    "review_id": "b1593dd0-1e44-4aa8-8ba0-cc97ed3a3496",
+    "product_id": "B005T6TJIO",
+    "user_id": "JU5782",
+    "rating": 5,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.412924"
+  },
+  {
+    "review_id": "06e164d7-4a43-41cd-bd62-593437626711",
+    "product_id": "B0BYBG1PPD",
+    "user_id": "JU5782",
+    "rating": 4,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.412932"
+  },
+  {
+    "review_id": "2e54d51f-3472-4a12-8c99-a99929ad8a2c",
+    "product_id": "B07DYJR44S",
+    "user_id": "JU5782",
+    "rating": 5,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.412941"
+  },
+  {
+    "review_id": "1364a1c1-3f9c-492b-85b7-de7a185b8639",
+    "product_id": "B0BYBG1PPD",
+    "user_id": "OY4582",
+    "rating": 5,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.412951"
+  },
+  {
+    "review_id": "9dcad93b-db67-4c56-8e94-3986690f2b9f",
+    "product_id": "B0B7JQWK1Q",
+    "user_id": "OY4582",
+    "rating": 3,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.412964"
+  },
+  {
+    "review_id": "6a61b575-e736-44dc-9ee1-1c280f48251e",
+    "product_id": "B0B1BXC6W1",
+    "user_id": "GT9865",
+    "rating": 3,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.412977"
+  },
+  {
+    "review_id": "d0a3b0f3-c7ed-4274-8e84-ae6d68394f66",
+    "product_id": "B07GJV8JQ4",
+    "user_id": "GT9865",
+    "rating": 4,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.412991"
+  },
+  {
+    "review_id": "146ff6a1-1cb5-4d4d-aee6-4976b6065218",
+    "product_id": "B07QF5117Q",
+    "user_id": "SS4748",
+    "rating": 5,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.413004"
+  },
+  {
+    "review_id": "aca320ce-b3b4-4c72-9338-33d57756fd76",
+    "product_id": "B07FZ21VWY",
+    "user_id": "SS4748",
+    "rating": 4,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.413012"
+  },
+  {
+    "review_id": "accd1eaf-f323-457c-9f65-bc189572b9a8",
+    "product_id": "B0B6P5NF2Z",
+    "user_id": "SS4748",
+    "rating": 2,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.413022"
+  },
+  {
+    "review_id": "ff598e7c-091f-407c-8fb2-0cd117c00bb1",
+    "product_id": "B093GWXVC4",
+    "user_id": "SS4748",
+    "rating": 2,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.413030"
+  },
+  {
+    "review_id": "772edbc1-74e5-4ada-b528-a4a89b9be423",
+    "product_id": "B0B7JQWK1Q",
+    "user_id": "EE0610",
+    "rating": 3,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.413039"
+  },
+  {
+    "review_id": "73f6315f-2151-4567-9051-2dea93265d34",
+    "product_id": "B00BGFTSGU",
+    "user_id": "DV3168",
+    "rating": 2,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.413050"
+  },
+  {
+    "review_id": "e945cf3f-217f-4cfd-9047-53f9d44da945",
+    "product_id": "B00YW49ZJC",
+    "user_id": "DV3168",
+    "rating": 4,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.413058"
+  },
+  {
+    "review_id": "568d4a0f-aac8-4658-a99b-ecdcf8df4584",
+    "product_id": "B01AC7EOL6",
+    "user_id": "DV3168",
+    "rating": 2,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.413072"
+  },
+  {
+    "review_id": "3b3bcaa5-47ed-47e7-a2ca-50d229144090",
+    "product_id": "B003Y2PK92",
+    "user_id": "DV3168",
+    "rating": 4,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.413085"
+  },
+  {
+    "review_id": "22b4de7d-93a2-4cd3-aa8a-6670a8485d22",
+    "product_id": "B00YW49ZJC",
+    "user_id": "SZ3259",
+    "rating": 2,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.413106"
+  },
+  {
+    "review_id": "b164ca20-31ec-4d31-bb5b-d3ab9fcbb6ea",
+    "product_id": "B09CL2VNPJ",
+    "user_id": "SZ3259",
+    "rating": 2,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.413115"
+  },
+  {
+    "review_id": "345dc767-37dd-4357-85dd-9a0b1f5cb695",
+    "product_id": "B078GTQQF9",
+    "user_id": "ZB3011",
+    "rating": 5,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.413124"
+  },
+  {
+    "review_id": "4020c997-cfd8-42c0-bd6b-204e8319084a",
+    "product_id": "B08LF36XD2",
+    "user_id": "ZB3011",
+    "rating": 4,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.413133"
+  },
+  {
+    "review_id": "7021cb50-5a3b-4e69-834b-2cc42f6efc12",
+    "product_id": "B07VJXK7BV",
+    "user_id": "ZB3011",
+    "rating": 3,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.413142"
+  },
+  {
+    "review_id": "06e70dd7-6fdc-4ce9-a171-0614dc2c3043",
+    "product_id": "B00P1Q17ZU",
+    "user_id": "TE5182",
+    "rating": 4,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.413151"
+  },
+  {
+    "review_id": "8ea57136-895a-41e9-82df-687bd64f7259",
+    "product_id": "B0BG5NKDL7",
+    "user_id": "TE5182",
+    "rating": 5,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.413161"
+  },
+  {
+    "review_id": "1177cc4e-cbe5-44b3-af9b-3297ca54036a",
+    "product_id": "B004TNKXBU",
+    "user_id": "TE5182",
+    "rating": 5,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.413173"
+  },
+  {
+    "review_id": "5ed88267-afa1-481b-ab85-013267b83f35",
+    "product_id": "B0178F72E6",
+    "user_id": "TE5182",
+    "rating": 3,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.413185"
+  },
+  {
+    "review_id": "23a7dd03-4f4e-461b-98c9-d1440811d4ae",
+    "product_id": "B0BX6GGSTJ",
+    "user_id": "HV2078",
+    "rating": 4,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.413197"
+  },
+  {
+    "review_id": "5747d131-f981-48ab-9f81-8d03569d9bf3",
+    "product_id": "B000G14VL2",
+    "user_id": "HV2078",
+    "rating": 2,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.413210"
+  },
+  {
+    "review_id": "35a8bfb9-84b2-479a-b8c6-30a841fcda8e",
+    "product_id": "B000AQ8OFC",
+    "user_id": "EZ4556",
+    "rating": 5,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.413223"
+  },
+  {
+    "review_id": "8c15fff9-f09d-4d4b-869e-cbdd9c3d7cb2",
+    "product_id": "B0BSQL7M51",
+    "user_id": "EZ4556",
+    "rating": 4,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.413232"
+  },
+  {
+    "review_id": "f44269c7-393f-445e-a08e-20bd458338c7",
+    "product_id": "B0B2P1FPLF",
+    "user_id": "EZ4556",
+    "rating": 4,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.413240"
+  },
+  {
+    "review_id": "25db87a4-8637-4e56-a932-d6a73828b98a",
+    "product_id": "B0BG5NKDL7",
+    "user_id": "BU1529",
+    "rating": 5,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.413250"
+  },
+  {
+    "review_id": "62431349-0ee7-4668-a9b9-9ab9f0595ccc",
+    "product_id": "B0BNHVJ8NX",
+    "user_id": "BU1529",
+    "rating": 2,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.413262"
+  },
+  {
+    "review_id": "1c4e5aed-6ec5-4af0-a29b-da9e26cb71cc",
+    "product_id": "B08JYXM5XD",
+    "user_id": "BU1529",
+    "rating": 5,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.413276"
+  },
+  {
+    "review_id": "466785c1-6625-48d7-aff2-e479fa3f2f25",
+    "product_id": "B06XKRXLDR",
+    "user_id": "TQ0979",
+    "rating": 5,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.413286"
+  },
+  {
+    "review_id": "3cfae120-3f81-4e9d-ab57-aa3803b0a504",
+    "product_id": "B0BGPG7ZNM",
+    "user_id": "TQ0979",
+    "rating": 2,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.413294"
+  },
+  {
+    "review_id": "1d0f14f3-f9e1-43e0-9178-2fa6ac1922a3",
+    "product_id": "B0C1Q7DP2X",
+    "user_id": "YN0684",
+    "rating": 3,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.413303"
+  },
+  {
+    "review_id": "fa0cad1e-2f6b-4bf7-86a0-688927a28b04",
+    "product_id": "B00IKMJZVA",
+    "user_id": "YN0684",
+    "rating": 4,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.413312"
+  },
+  {
+    "review_id": "cf81c918-21b0-4fa3-86fa-b8fc10ef1991",
+    "product_id": "B08XQ8PS2J",
+    "user_id": "YN0684",
+    "rating": 4,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.413321"
+  },
+  {
+    "review_id": "d532c6f1-e54c-45d1-bf17-15aa40031fcf",
+    "product_id": "B07XYHC577",
+    "user_id": "OV8138",
+    "rating": 3,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.413329"
+  },
+  {
+    "review_id": "dc579970-2dbb-4141-92ef-f7851cca4414",
+    "product_id": "B071YJFTV4",
+    "user_id": "OV8138",
+    "rating": 2,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.413338"
+  },
+  {
+    "review_id": "2e315acb-6626-435c-9754-2a62fb176e53",
+    "product_id": "B08GQ2VHQ6",
+    "user_id": "WC8864",
+    "rating": 5,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.413348"
+  },
+  {
+    "review_id": "224bc0c6-0d9b-409c-b20b-e5eac830a928",
+    "product_id": "B000G14VL2",
+    "user_id": "WC8864",
+    "rating": 3,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.413359"
+  },
+  {
+    "review_id": "6fd945ba-273b-44c2-a505-09dded675f0c",
+    "product_id": "B0BG5NKDL7",
+    "user_id": "WC8864",
+    "rating": 4,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.413404"
+  },
+  {
+    "review_id": "d90944cd-a8c7-457e-bfc5-14bf744297b3",
+    "product_id": "B06XKRXLDR",
+    "user_id": "WC8864",
+    "rating": 3,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.413419"
+  },
+  {
+    "review_id": "a41c86cd-78f2-4ae9-a950-67c483f63da3",
+    "product_id": "B07C9W6G2Y",
+    "user_id": "QG2837",
+    "rating": 3,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.413432"
+  },
+  {
+    "review_id": "336b4536-aec7-4354-9076-3e3ebda6ba63",
+    "product_id": "B07MVKYVVL",
+    "user_id": "QG2837",
+    "rating": 5,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.413441"
+  },
+  {
+    "review_id": "37a05a46-4720-4371-863d-9200d522d7a3",
+    "product_id": "B09J56DSX4",
+    "user_id": "QG2837",
+    "rating": 2,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.413454"
+  },
+  {
+    "review_id": "0ef83334-5318-418d-ab03-a43ca521ab86",
+    "product_id": "B003Y2PK92",
+    "user_id": "QG2837",
+    "rating": 3,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.413467"
+  },
+  {
+    "review_id": "31d5df4a-c00f-4993-ae40-59805b7f93e8",
+    "product_id": "B00P1Q17ZU",
+    "user_id": "JS9229",
+    "rating": 3,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.413477"
+  },
+  {
+    "review_id": "473bc12b-913f-4ded-8523-fd3f6917db18",
+    "product_id": "B0BMXFDSKM",
+    "user_id": "WM8830",
+    "rating": 2,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.413486"
+  },
+  {
+    "review_id": "50c55b0d-ad46-4ce2-9792-e8d2c397efa3",
+    "product_id": "B00A493CNY",
+    "user_id": "JS9229",
+    "rating": 5,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.413496"
+  },
+  {
+    "review_id": "b45e6f15-2434-4dc8-9710-237fa0da6dc2",
+    "product_id": "B07XFQGPCG",
+    "user_id": "OY4582",
+    "rating": 4,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.413506"
+  },
+  {
+    "review_id": "19e38b47-b190-495e-8831-e9ccde04e033",
+    "product_id": "B07WVHLQTK",
+    "user_id": "XR4389",
+    "rating": 4,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.413519"
+  },
+  {
+    "review_id": "dff5d06c-f90f-40ba-8edc-da5d0773e999",
+    "product_id": "B094C5ZN1M",
+    "user_id": "XR4389",
+    "rating": 3,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.413532"
+  },
+  {
+    "review_id": "60b1ef37-9f64-4501-804b-5d33e696cb83",
+    "product_id": "B00K0LAPDQ",
+    "user_id": "XR4389",
+    "rating": 2,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.413548"
+  },
+  {
+    "review_id": "ca8fd97b-bbf1-4273-8b17-05779477563d",
+    "product_id": "B0BNHVJ8NX",
+    "user_id": "XR4389",
+    "rating": 2,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.413557"
+  },
+  {
+    "review_id": "bccd7018-0183-47b8-a694-34a37b098b31",
+    "product_id": "B07FZ21VWY",
+    "user_id": "LY3925",
+    "rating": 5,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.413566"
+  },
+  {
+    "review_id": "6581cee5-6f19-4716-b76e-f5d5ade0243f",
+    "product_id": "B07H8QWTPH",
+    "user_id": "AF0055",
+    "rating": 4,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.413577"
+  },
+  {
+    "review_id": "8c41f961-c48a-43d9-80c6-7154d135254a",
+    "product_id": "B09YLH6RVV",
+    "user_id": "AF0055",
+    "rating": 3,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.413585"
+  },
+  {
+    "review_id": "dbba473e-3540-4b4e-a80e-d8a365e10dc1",
+    "product_id": "B00R6R82HS",
+    "user_id": "AF0055",
+    "rating": 3,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.413594"
+  },
+  {
+    "review_id": "f42c4fad-0e8c-4888-94b5-b2e91c4f48fe",
+    "product_id": "B093N94GPG",
+    "user_id": "AF0055",
+    "rating": 5,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.413602"
+  },
+  {
+    "review_id": "649555b4-a12b-4a0a-a9e6-14116d21496c",
+    "product_id": "B09SJ9192T",
+    "user_id": "PC9920",
+    "rating": 2,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.413611"
+  },
+  {
+    "review_id": "87859c6a-63b0-407c-805d-0adcaf62ddfe",
+    "product_id": "B005DL1IJS",
+    "user_id": "PC9920",
+    "rating": 2,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.413619"
+  },
+  {
+    "review_id": "307ee75f-f21b-4198-803a-cdd8ce9c8f3f",
+    "product_id": "B00M9AEJQA",
+    "user_id": "PC9920",
+    "rating": 3,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.413628"
+  },
+  {
+    "review_id": "7b4952b5-03af-4da1-a904-26676ffb4a08",
+    "product_id": "B0BP7FT28L",
+    "user_id": "MI8273",
+    "rating": 5,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.413637"
+  },
+  {
+    "review_id": "06652835-6f6f-4a23-be0a-aa5bdbe8abbc",
+    "product_id": "B00AZOIG9I",
+    "user_id": "MI8273",
+    "rating": 3,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.413646"
+  },
+  {
+    "review_id": "688e3c4b-9ad5-4322-acf3-bc8c70d761a3",
+    "product_id": "B0BF9YKR59",
+    "user_id": "MI8273",
+    "rating": 2,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.413655"
+  },
+  {
+    "review_id": "94918893-db64-4c8b-983d-30e15c675f36",
+    "product_id": "B0BGPG7ZNM",
+    "user_id": "EN8669",
+    "rating": 5,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.413664"
+  },
+  {
+    "review_id": "cfff8036-6109-4268-9e2c-bbd621acb790",
+    "product_id": "B00XIT6C20",
+    "user_id": "EN8669",
+    "rating": 4,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.413673"
+  },
+  {
+    "review_id": "7ce96c04-22fa-42d9-8850-a0ba4cd829f9",
+    "product_id": "B08LF36XD2",
+    "user_id": "EN8669",
+    "rating": 5,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.413682"
+  },
+  {
+    "review_id": "9978dc03-6d23-4287-8f48-27d5863a3089",
+    "product_id": "B0743MQB7N",
+    "user_id": "EN8669",
+    "rating": 5,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.413691"
+  },
+  {
+    "review_id": "b681c6f8-172f-4279-ba7e-31747b4a5cb6",
+    "product_id": "B00FSTW88K",
+    "user_id": "SQ9540",
+    "rating": 5,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.413700"
+  },
+  {
+    "review_id": "e66ec18a-3d60-4297-ba03-21f4400a9d7b",
+    "product_id": "B0B6P5NF2Z",
+    "user_id": "SQ9540",
+    "rating": 2,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.413713"
+  },
+  {
+    "review_id": "9d382ae9-0a8b-4d9e-986e-1042485b6cc6",
+    "product_id": "B0B7JQWK1Q",
+    "user_id": "QP9826",
+    "rating": 4,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.413727"
+  },
+  {
+    "review_id": "3600aba8-bb04-4e80-8862-794ba8f7c0fb",
+    "product_id": "B0821M984B",
+    "user_id": "QP9826",
+    "rating": 3,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.413739"
+  },
+  {
+    "review_id": "23131377-fce8-4000-9088-0c757d7e488f",
+    "product_id": "B07T9GCD14",
+    "user_id": "QP9826",
+    "rating": 2,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.413748"
+  },
+  {
+    "review_id": "b3e245a4-c32f-4b08-ba40-f340082bd5d1",
+    "product_id": "B01AC7CC24",
+    "user_id": "ZB3011",
+    "rating": 3,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.413760"
+  },
+  {
+    "review_id": "b5d16175-16a9-4c49-ae9e-336c7bcaf281",
+    "product_id": "B00CY8S41S",
+    "user_id": "ZB3011",
+    "rating": 2,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.413769"
+  },
+  {
+    "review_id": "151a7b8a-f950-44a3-b32b-ee2e6067e8ec",
+    "product_id": "B0B7WT4RZK",
+    "user_id": "ZB3011",
+    "rating": 5,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.413778"
+  },
+  {
+    "review_id": "33dfd164-57f2-4f69-a3de-fb892a081fd0",
+    "product_id": "B07GJV8JQ4",
+    "user_id": "CL6424",
+    "rating": 3,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.413787"
+  },
+  {
+    "review_id": "1fa8f72c-b7d4-4cbd-bcb5-62abf458adac",
+    "product_id": "B081Q75F4H",
+    "user_id": "CL6424",
+    "rating": 3,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.413795"
+  },
+  {
+    "review_id": "6312942a-a507-4f8d-ab75-4bb0007872b5",
+    "product_id": "B0C5XLH1HM",
+    "user_id": "GT9865",
+    "rating": 4,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.413804"
+  },
+  {
+    "review_id": "4746d033-4ec6-4241-a076-fd353546a8b9",
+    "product_id": "B004NXQNU6",
+    "user_id": "GT9865",
+    "rating": 3,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.413813"
+  },
+  {
+    "review_id": "9729aa84-61b7-42a7-9c4a-9c48f8a1439f",
+    "product_id": "B0C1Q7DP2X",
+    "user_id": "GT9865",
+    "rating": 2,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.413822"
+  },
+  {
+    "review_id": "5e349bbd-263e-4dae-a6ae-711d23cac5a2",
+    "product_id": "B01N1TCT1Z",
+    "user_id": "GT9865",
+    "rating": 2,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.413830"
+  },
+  {
+    "review_id": "c75f93c9-f276-48c0-ba24-6bdc9c1a2111",
+    "product_id": "B08DP1YZP8",
+    "user_id": "VA2924",
+    "rating": 3,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.413839"
+  },
+  {
+    "review_id": "e943799d-853d-4efe-8aa1-412fcf9c9062",
+    "product_id": "B0BPLX8B2K",
+    "user_id": "VA2924",
+    "rating": 5,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.413848"
+  },
+  {
+    "review_id": "47a25f9d-2cd4-43ac-83a7-6150789aa401",
+    "product_id": "B0045ZMWPM",
+    "user_id": "VA2924",
+    "rating": 5,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.413856"
+  },
+  {
+    "review_id": "3ffdc01e-ec6d-4f2a-a3d9-411bd9db3094",
+    "product_id": "B00SK8LK1W",
+    "user_id": "QS6846",
+    "rating": 2,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.413864"
+  },
+  {
+    "review_id": "db5159d4-1ca7-47ef-aa6f-5a015bada26c",
+    "product_id": "B07Q1JN792",
+    "user_id": "QS6846",
+    "rating": 5,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.413872"
+  },
+  {
+    "review_id": "37e9bfde-17b1-4060-adf8-4c5e93618391",
+    "product_id": "B07Y6K1PRB",
+    "user_id": "QS6846",
+    "rating": 3,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.413881"
+  },
+  {
+    "review_id": "efc69769-dc17-47c9-b498-12156623761c",
+    "product_id": "B09X52MNQY",
+    "user_id": "GG8397",
+    "rating": 2,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.413893"
+  },
+  {
+    "review_id": "c425b767-72c6-4bfa-8010-20474da8453f",
+    "product_id": "B0BVLBJNF3",
+    "user_id": "GG8397",
+    "rating": 5,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.413902"
+  },
+  {
+    "review_id": "ae4dc2bf-907f-43a3-89c7-4330c139fb67",
+    "product_id": "B09X983942",
+    "user_id": "JX0428",
+    "rating": 5,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.413916"
+  },
+  {
+    "review_id": "a869dfe4-b666-4fe3-81bb-82a00d949882",
+    "product_id": "B091THDX36",
+    "user_id": "FU9906",
+    "rating": 3,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.413929"
+  },
+  {
+    "review_id": "8cf8b1ae-652a-49ee-bff0-5eea8036207f",
+    "product_id": "B09QSNNBBV",
+    "user_id": "FU9906",
+    "rating": 4,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.413941"
+  },
+  {
+    "review_id": "7cd4b10e-b048-41ba-821d-2924aac3dbf1",
+    "product_id": "B07GJV8JQ4",
+    "user_id": "DO3821",
+    "rating": 5,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.413951"
+  },
+  {
+    "review_id": "484b0855-f647-4a76-bc80-881bdd3efd61",
+    "product_id": "B0BMXFDSKM",
+    "user_id": "DO3821",
+    "rating": 3,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.413960"
+  },
+  {
+    "review_id": "a31186c4-0bc6-41b7-83d5-45e58b87b806",
+    "product_id": "B0BPMGTV36",
+    "user_id": "QG2837",
+    "rating": 5,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.413970"
+  },
+  {
+    "review_id": "51e90619-352d-47fc-a27e-d2c5f8356318",
+    "product_id": "B07GJV8JQ4",
+    "user_id": "QG2837",
+    "rating": 4,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.413978"
+  },
+  {
+    "review_id": "85619428-1a85-4885-b193-6007bd97c42e",
+    "product_id": "B00KAEVW26",
+    "user_id": "QG2837",
+    "rating": 5,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.413998"
+  },
+  {
+    "review_id": "2e08f775-1d5a-4988-9a34-7d5bf7366428",
+    "product_id": "B0C559BCG4",
+    "user_id": "CL6424",
+    "rating": 5,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.414007"
+  },
+  {
+    "review_id": "4dad5178-e596-40b7-a512-7e6f5813d2af",
+    "product_id": "B0B6S3PLNR",
+    "user_id": "CL6424",
+    "rating": 2,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.414015"
+  },
+  {
+    "review_id": "58164707-c5e8-4297-bbf1-4cd8ded16dce",
+    "product_id": "B08GQ2VHQ6",
+    "user_id": "CL6424",
+    "rating": 3,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.414023"
+  },
+  {
+    "review_id": "93fef199-5494-46d6-9c2d-43a329874327",
+    "product_id": "B07C4YHF4L",
+    "user_id": "CL6424",
+    "rating": 3,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.414032"
+  },
+  {
+    "review_id": "0b8c9066-0172-46a8-bcdb-7abfac6f8492",
+    "product_id": "B07848ZT9T",
+    "user_id": "AA0815",
+    "rating": 4,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.414046"
+  },
+  {
+    "review_id": "3ca13f31-df2c-4932-9864-68da27d28f9d",
+    "product_id": "B00IKMJZVA",
+    "user_id": "AA0815",
+    "rating": 4,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.414059"
+  },
+  {
+    "review_id": "984e00bd-4e7b-41ff-9522-623daf625a43",
+    "product_id": "B07PCMZVTF",
+    "user_id": "AA0815",
+    "rating": 3,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.414071"
+  },
+  {
+    "review_id": "bdb8bd74-0a19-4964-be9f-349ed2df5ce6",
+    "product_id": "B01AC7EOL6",
+    "user_id": "AA0815",
+    "rating": 2,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.414080"
+  },
+  {
+    "review_id": "db359fb9-47a2-4b37-b9e5-296e574bccee",
+    "product_id": "B07FZ21VWY",
+    "user_id": "PO4459",
+    "rating": 4,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.414090"
+  },
+  {
+    "review_id": "cc29340a-c714-4f80-99fa-306ffcb874f3",
+    "product_id": "B0BGPG7ZNM",
+    "user_id": "PO4459",
+    "rating": 4,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.414098"
+  },
+  {
+    "review_id": "e9418210-0527-48ee-b454-eec67d2f4e1a",
+    "product_id": "B005DL1IJS",
+    "user_id": "PO4459",
+    "rating": 2,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.414106"
+  },
+  {
+    "review_id": "106116e0-00c9-479d-9534-ecb172aa9c92",
+    "product_id": "B0B3SMDK54",
+    "user_id": "PO4459",
+    "rating": 3,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.414114"
+  },
+  {
+    "review_id": "239bcd7e-55a7-48d1-a782-ae78bb493eed",
+    "product_id": "B078YMYB9P",
+    "user_id": "EW8189",
+    "rating": 5,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.414123"
+  },
+  {
+    "review_id": "c5c1bcbf-088f-4992-8a26-d80c2eb1e164",
+    "product_id": "B07X46T141",
+    "user_id": "EW8189",
+    "rating": 4,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.414131"
+  },
+  {
+    "review_id": "29834445-d7ef-46f9-b017-faf5ecba7cea",
+    "product_id": "B07QF5117Q",
+    "user_id": "EW8189",
+    "rating": 3,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.414142"
+  },
+  {
+    "review_id": "05417ced-e220-4fcf-a869-2f99bbaab9b9",
+    "product_id": "B08X2DCF2B",
+    "user_id": "IZ5066",
+    "rating": 2,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.414157"
+  },
+  {
+    "review_id": "1eb95080-ef30-4c09-9c12-545f2fbecb54",
+    "product_id": "B08XQ8PS2J",
+    "user_id": "IZ5066",
+    "rating": 2,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.414170"
+  },
+  {
+    "review_id": "c573a6b4-a062-4a0f-bce3-cea206988a36",
+    "product_id": "B07XFQGPCG",
+    "user_id": "IZ5066",
+    "rating": 5,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.414180"
+  },
+  {
+    "review_id": "ba7ccc55-d4cb-4b36-aa11-2bc6351c4037",
+    "product_id": "B07MKWC2XN",
+    "user_id": "IZ5066",
+    "rating": 4,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.414189"
+  },
+  {
+    "review_id": "4790c2dd-e32c-4781-b8fb-f22f7a283bd1",
+    "product_id": "B0993H9FLR",
+    "user_id": "QR5167",
+    "rating": 4,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.414199"
+  },
+  {
+    "review_id": "9b3372c1-ad43-49b2-a7b8-b7f3dc5205ba",
+    "product_id": "B000G14VL2",
+    "user_id": "QR5167",
+    "rating": 2,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.414207"
+  },
+  {
+    "review_id": "6c2e76cf-e05c-44bf-bb9a-7cb467bef559",
+    "product_id": "B08RS4QZ2K",
+    "user_id": "QR5167",
+    "rating": 4,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.414216"
+  },
+  {
+    "review_id": "796a6d39-2049-4365-b592-fdde06285a36",
+    "product_id": "B07MKWC2XN",
+    "user_id": "BL9101",
+    "rating": 2,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.414225"
+  },
+  {
+    "review_id": "ffd76e22-e532-4041-8029-ec2b51f6c528",
+    "product_id": "B01DLNTUYY",
+    "user_id": "BL9101",
+    "rating": 4,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.414234"
+  },
+  {
+    "review_id": "c12b1a94-f350-4c3f-895d-12b82f5251cb",
+    "product_id": "B08S7RR9JJ",
+    "user_id": "XQ8266",
+    "rating": 2,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.414248"
+  },
+  {
+    "review_id": "6dff622c-0ad7-47c5-81ef-afee6cd5a7fa",
+    "product_id": "B07WWX18K5",
+    "user_id": "JU5782",
+    "rating": 5,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.414262"
+  },
+  {
+    "review_id": "5c6912e6-578c-4dbd-a072-e00c35ac46c8",
+    "product_id": "B007JT4AW4",
+    "user_id": "QU5185",
+    "rating": 2,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.414275"
+  },
+  {
+    "review_id": "21fce0a5-f032-4eb9-8485-75961d5f9667",
+    "product_id": "B00CY8S41S",
+    "user_id": "QU5185",
+    "rating": 4,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.414288"
+  },
+  {
+    "review_id": "30b7579e-05f4-4015-8625-1a6be1c11b80",
+    "product_id": "B00M9AEJQA",
+    "user_id": "QU5185",
+    "rating": 2,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.414298"
+  },
+  {
+    "review_id": "03809a3a-d615-44a7-aa8b-2500ec767969",
+    "product_id": "B00XISYQ06",
+    "user_id": "QU5185",
+    "rating": 3,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.414307"
+  },
+  {
+    "review_id": "116bacde-cfdc-412e-9968-e39cf1434471",
+    "product_id": "B0821M984B",
+    "user_id": "JC2214",
+    "rating": 3,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.414318"
+  },
+  {
+    "review_id": "8f692713-5d6a-498c-91de-2af609cb3696",
+    "product_id": "B07XYHC577",
+    "user_id": "NX4887",
+    "rating": 3,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.414331"
+  },
+  {
+    "review_id": "8a1e8bd6-12db-4746-8a95-c9391c81eb69",
+    "product_id": "B0B2P1FPLF",
+    "user_id": "NX4887",
+    "rating": 5,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.414346"
+  },
+  {
+    "review_id": "97a8ee9b-4dc1-4c50-9597-d556dd89133e",
+    "product_id": "B07SM135LS",
+    "user_id": "NX4887",
+    "rating": 5,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.414354"
+  },
+  {
+    "review_id": "4bdac4eb-18c0-49ee-8064-b464feab3d7e",
+    "product_id": "B0BDQMXQFY",
+    "user_id": "NX4887",
+    "rating": 2,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.414363"
+  },
+  {
+    "review_id": "1ade0136-2777-4e73-87de-9fd36943b9cb",
+    "product_id": "B0BZY82YDR",
+    "user_id": "YC8528",
+    "rating": 2,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.414372"
+  },
+  {
+    "review_id": "53dee9ca-c805-4738-9abd-4b6596a6cf6b",
+    "product_id": "B00JYFN9YG",
+    "user_id": "YC8528",
+    "rating": 3,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.414381"
+  },
+  {
+    "review_id": "483a02e0-7a18-4b67-af83-3aee26ca552b",
+    "product_id": "B09S9WMFQJ",
+    "user_id": "YC8528",
+    "rating": 3,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.414389"
+  },
+  {
+    "review_id": "155d3666-02bd-432c-adb1-655d91a4f3a3",
+    "product_id": "B07PS6M97W",
+    "user_id": "JC2214",
+    "rating": 5,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.414398"
+  },
+  {
+    "review_id": "4a0d3576-2c5d-43c3-8a8e-9777faed41ef",
+    "product_id": "B09X983942",
+    "user_id": "JC2214",
+    "rating": 4,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.414407"
+  },
+  {
+    "review_id": "155779be-ace1-48b1-917c-4d3b2a70b77b",
+    "product_id": "B08LPNPFC4",
+    "user_id": "JC2214",
+    "rating": 4,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.414415"
+  },
+  {
+    "review_id": "8270e1de-164d-4e37-81f0-5219878bf81c",
+    "product_id": "B0BJ7F4W33",
+    "user_id": "JC2214",
+    "rating": 4,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.414424"
+  },
+  {
+    "review_id": "4678a668-0248-4db6-8241-6e15f0d5017e",
+    "product_id": "B00VBTJCJE",
+    "user_id": "JV7485",
+    "rating": 2,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.414433"
+  },
+  {
+    "review_id": "cffc05df-d694-4567-a4fd-81cccfe68518",
+    "product_id": "B0BDQMXQFY",
+    "user_id": "KQ0845",
+    "rating": 2,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.414442"
+  },
+  {
+    "review_id": "85923749-e4e1-4c63-890c-9bf88ed100f8",
+    "product_id": "B0178F72E6",
+    "user_id": "KQ0845",
+    "rating": 4,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.414451"
+  },
+  {
+    "review_id": "80e04b6a-e383-4f48-8562-cccc455ceed9",
+    "product_id": "B00P1Q17ZU",
+    "user_id": "KQ0845",
+    "rating": 3,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.414459"
+  },
+  {
+    "review_id": "01830edf-1f9a-4001-9d0a-b8adb4ac26a0",
+    "product_id": "B07CRKJRT2",
+    "user_id": "KQ0845",
+    "rating": 5,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.414467"
+  },
+  {
+    "review_id": "10e8f5e8-733c-411d-baba-5bdcce56f2c8",
+    "product_id": "B07VP4PJ16",
+    "user_id": "SI7074",
+    "rating": 2,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.414480"
+  },
+  {
+    "review_id": "1cd4be13-f049-45f7-863f-d9e99968698d",
+    "product_id": "B06XKRXLDR",
+    "user_id": "AF0055",
+    "rating": 3,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.414493"
+  },
+  {
+    "review_id": "8fe5fd8c-62f7-4547-b978-d0c147d8ffca",
+    "product_id": "B08X2DCF2B",
+    "user_id": "AF0055",
+    "rating": 5,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.414506"
+  },
+  {
+    "review_id": "fa841310-a5c9-40bb-8035-1ff0698916cb",
+    "product_id": "B01AC7CC24",
+    "user_id": "AF0055",
+    "rating": 3,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.414515"
+  },
+  {
+    "review_id": "5923858d-cf69-4738-ac1d-d7802f86f166",
+    "product_id": "B01CTOZYBE",
+    "user_id": "AF0055",
+    "rating": 4,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.414525"
+  },
+  {
+    "review_id": "0a93100a-451e-4347-8d45-a880c83f5b1e",
+    "product_id": "B07PCMZVTF",
+    "user_id": "SB8252",
+    "rating": 5,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.414539"
+  },
+  {
+    "review_id": "7f2b4b62-b9d2-44b0-b486-b29de4374c3d",
+    "product_id": "B08XQ8PS2J",
+    "user_id": "SB8252",
+    "rating": 5,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.414551"
+  },
+  {
+    "review_id": "34678b6e-af04-4d83-aaca-f2e273503f7d",
+    "product_id": "B07N1WJXTY",
+    "user_id": "SB8252",
+    "rating": 4,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.414563"
+  },
+  {
+    "review_id": "f084e176-1de1-4129-a0de-c2b32f08e647",
+    "product_id": "B09J56DSX4",
+    "user_id": "SB8252",
+    "rating": 5,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.414575"
+  },
+  {
+    "review_id": "c830918b-a730-43ef-bdd4-9a857b2e857f",
+    "product_id": "B08QCPDKW1",
+    "user_id": "VA2924",
+    "rating": 5,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.414589"
+  },
+  {
+    "review_id": "2046dbc3-859b-485a-8ea1-5a50dbdb4d60",
+    "product_id": "B0C2VCWPGY",
+    "user_id": "VA2924",
+    "rating": 3,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.414602"
+  },
+  {
+    "review_id": "d8eb4eea-6690-4eab-9123-10485e49d919",
+    "product_id": "B07848ZT9T",
+    "user_id": "NO4133",
+    "rating": 5,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.414615"
+  },
+  {
+    "review_id": "9fa41bb8-875f-496e-8836-8b301f417b9d",
+    "product_id": "B00XHY9YTE",
+    "user_id": "NO4133",
+    "rating": 2,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.414628"
+  },
+  {
+    "review_id": "309d72bd-74b8-4126-86eb-359167067095",
+    "product_id": "B071YJFTV4",
+    "user_id": "EN8669",
+    "rating": 3,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.414638"
+  },
+  {
+    "review_id": "91b0472b-c939-4d52-bd74-426ab9f74864",
+    "product_id": "B07848ZT9T",
+    "user_id": "NU3336",
+    "rating": 2,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.414647"
+  },
+  {
+    "review_id": "f8beb187-f02c-4abc-b72c-5a990c4f86dc",
+    "product_id": "B07FZ21VWY",
+    "user_id": "NG3269",
+    "rating": 3,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.414699"
+  },
+  {
+    "review_id": "d0269d20-9e04-4a8f-ab44-4f269bcc6d7f",
+    "product_id": "B07XFQGPCG",
+    "user_id": "NG3269",
+    "rating": 3,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.414726"
+  },
+  {
+    "review_id": "c318a33a-fc2d-4afe-add9-eb950de5993d",
+    "product_id": "B0BPDXN8MK",
+    "user_id": "NG3269",
+    "rating": 2,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.414734"
+  },
+  {
+    "review_id": "ccfb989d-52e4-439c-b803-c265d3ea67d9",
+    "product_id": "B00A493CNY",
+    "user_id": "NG3269",
+    "rating": 4,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.414760"
+  },
+  {
+    "review_id": "e14bec05-e30c-493b-aa60-624e16c46c3d",
+    "product_id": "B01B7ZNKZ8",
+    "user_id": "YN1345",
+    "rating": 2,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.414769"
+  },
+  {
+    "review_id": "15fe7366-56ad-4010-900f-affafeaea888",
+    "product_id": "B07WWX18K5",
+    "user_id": "YN1345",
+    "rating": 3,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.414778"
+  },
+  {
+    "review_id": "7e38b92f-0dc6-478f-b088-557167e51906",
+    "product_id": "B00XIT6C20",
+    "user_id": "YN1345",
+    "rating": 4,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.414788"
+  },
+  {
+    "review_id": "1ca8a571-fc74-48cd-b61d-45a845f0e7df",
+    "product_id": "B091THDX36",
+    "user_id": "YN1345",
+    "rating": 4,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.414801"
+  },
+  {
+    "review_id": "c14dd908-0a78-42bb-a767-f964f3c1741a",
+    "product_id": "B07XYHC577",
+    "user_id": "XT1289",
+    "rating": 2,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.414814"
+  },
+  {
+    "review_id": "7cb48a1e-7c5b-4eaa-80a7-000266753fba",
+    "product_id": "B01HME9RX2",
+    "user_id": "TA9515",
+    "rating": 5,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.414825"
+  },
+  {
+    "review_id": "c4fce28f-1128-4d18-93c0-28f01056fe5d",
+    "product_id": "B0BX49PM8V",
+    "user_id": "TA9515",
+    "rating": 2,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.414834"
+  },
+  {
+    "review_id": "862ffb30-57b0-4cc5-9a00-b15e44217458",
+    "product_id": "B08862M8VY",
+    "user_id": "QG2837",
+    "rating": 4,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.414843"
+  },
+  {
+    "review_id": "c71ee19a-5585-4fe2-8b52-df5fa9886250",
+    "product_id": "B08X2DCF2B",
+    "user_id": "QG2837",
+    "rating": 5,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.414852"
+  },
+  {
+    "review_id": "cb1d0b4d-b28f-438f-807f-5cba0515fcb8",
+    "product_id": "B0BPMGTV36",
+    "user_id": "VH4332",
+    "rating": 2,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.414862"
+  },
+  {
+    "review_id": "284030d5-d369-4e1e-b5e2-c6082cfe0aec",
+    "product_id": "B09TS8MB1T",
+    "user_id": "DO3821",
+    "rating": 4,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.414871"
+  },
+  {
+    "review_id": "5b089b25-44f6-43cc-a373-70b0a8baa5d7",
+    "product_id": "B09M7TH3YC",
+    "user_id": "DO3821",
+    "rating": 5,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.414879"
+  },
+  {
+    "review_id": "e1ef9040-c272-4417-83b3-30b9d5bab95a",
+    "product_id": "B094C5ZN1M",
+    "user_id": "DO3821",
+    "rating": 3,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.414887"
+  },
+  {
+    "review_id": "cb13a423-160a-4369-b8d1-579ab85275eb",
+    "product_id": "B000G14VL2",
+    "user_id": "PY0126",
+    "rating": 5,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.414897"
+  },
+  {
+    "review_id": "2875757c-b8d9-49ab-9370-1bfb3043bd96",
+    "product_id": "B07TB2C8QS",
+    "user_id": "PY0126",
+    "rating": 4,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.414905"
+  },
+  {
+    "review_id": "3a9292a5-3bab-464e-a05b-5f2f7a23ed83",
+    "product_id": "B08LF36XD2",
+    "user_id": "VZ8031",
+    "rating": 3,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.414915"
+  },
+  {
+    "review_id": "96519867-c7c6-4fa9-b7fb-7a4c7d798420",
+    "product_id": "B0BG5NKDL7",
+    "user_id": "XT1289",
+    "rating": 3,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.414924"
+  },
+  {
+    "review_id": "bffc5caa-f158-4561-b835-595538357062",
+    "product_id": "B00YW49ZJC",
+    "user_id": "XT1289",
+    "rating": 4,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.414932"
+  },
+  {
+    "review_id": "e4d07264-f088-49cf-95cd-8b24ddcacab7",
+    "product_id": "B0949F55S3",
+    "user_id": "XT1289",
+    "rating": 2,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.414940"
+  },
+  {
+    "review_id": "42d92a71-a0f1-4995-8926-e1aa695482f0",
+    "product_id": "B07PCMZVTF",
+    "user_id": "XT1289",
+    "rating": 3,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.414948"
+  },
+  {
+    "review_id": "24a2e147-73d7-4f68-9732-9fc08373e5d4",
+    "product_id": "B07CRQDTKM",
+    "user_id": "NX4887",
+    "rating": 4,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.414957"
+  },
+  {
+    "review_id": "72403663-aa8d-4789-bde8-5a45098f178e",
+    "product_id": "B00AZOIG9I",
+    "user_id": "NX4887",
+    "rating": 3,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.414965"
+  },
+  {
+    "review_id": "a88d832e-8dc3-4803-aead-6cbfdc77dc9b",
+    "product_id": "B09YLH6RVV",
+    "user_id": "TN2693",
+    "rating": 3,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.414978"
+  },
+  {
+    "review_id": "6eeb8f3d-3c94-46dc-bfa1-eaf8bd958b10",
+    "product_id": "B08254WPLJ",
+    "user_id": "TN2693",
+    "rating": 2,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.414991"
+  },
+  {
+    "review_id": "f39bbbb7-aa6f-4af1-b96e-cf9399384ada",
+    "product_id": "B08X2DCF2B",
+    "user_id": "TN2693",
+    "rating": 5,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.415004"
+  },
+  {
+    "review_id": "e277e37a-182a-4f97-9501-a759861572a5",
+    "product_id": "B08GFTPQ5B",
+    "user_id": "HH5232",
+    "rating": 3,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.415018"
+  },
+  {
+    "review_id": "743e9eb8-94e5-404d-8b02-c3a6fd2e33a4",
+    "product_id": "B09S9WMFQJ",
+    "user_id": "HH5232",
+    "rating": 2,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.415028"
+  },
+  {
+    "review_id": "bc4fb78a-7c5f-4c97-a76e-b3f8c9bdd6a2",
+    "product_id": "B018UK9Y6M",
+    "user_id": "HH5232",
+    "rating": 3,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.415037"
+  },
+  {
+    "review_id": "264f112a-5475-48f2-973b-9eacc5a8c9c3",
+    "product_id": "B000AQ8OFC",
+    "user_id": "EW8189",
+    "rating": 4,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.415047"
+  },
+  {
+    "review_id": "1338aa8d-308d-4c8c-969f-c47fc02d81e7",
+    "product_id": "B000I7VWKC",
+    "user_id": "EW8189",
+    "rating": 3,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.415055"
+  },
+  {
+    "review_id": "a8b4244e-7267-436d-8d95-fe0f42ed184a",
+    "product_id": "B09S9WMFQJ",
+    "user_id": "EW8189",
+    "rating": 4,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.415063"
+  },
+  {
+    "review_id": "553a69ce-2f1a-40db-9e36-addff08108ac",
+    "product_id": "B00IKMJZVA",
+    "user_id": "EW8189",
+    "rating": 3,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.415072"
+  },
+  {
+    "review_id": "f0345d95-55b7-42de-81e9-8f1408331b65",
+    "product_id": "B00P1Q17ZU",
+    "user_id": "RE3478",
+    "rating": 3,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.415081"
+  },
+  {
+    "review_id": "1d597398-5684-4066-9a8f-fa9cc662f6c5",
+    "product_id": "B071VQ9Y8W",
+    "user_id": "RE3478",
+    "rating": 2,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.415089"
+  },
+  {
+    "review_id": "95ae8e53-8cc1-4710-85d5-58fb7b96dccc",
+    "product_id": "B00FSTW88K",
+    "user_id": "RE3478",
+    "rating": 3,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.415118"
+  },
+  {
+    "review_id": "b2589c47-29c1-4671-bfae-e14ad042e107",
+    "product_id": "B000G14VL2",
+    "user_id": "PK0731",
+    "rating": 3,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.415149"
+  },
+  {
+    "review_id": "e5a79e09-ec54-4ce9-968e-857b4527b58b",
+    "product_id": "B07CRQDTKM",
+    "user_id": "PK0731",
+    "rating": 5,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.415160"
+  },
+  {
+    "review_id": "4175d647-5dd9-4a80-bc5a-a41d3c9db004",
+    "product_id": "B09J56DSX4",
+    "user_id": "PK0731",
+    "rating": 3,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.415169"
+  },
+  {
+    "review_id": "948498f5-baaa-4bab-ad5b-d8cd6d0b1588",
+    "product_id": "B08DP1YZP8",
+    "user_id": "KQ0845",
+    "rating": 4,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.415178"
+  },
+  {
+    "review_id": "fbe4fb7a-fe9d-46f0-84c5-be3d91bab37a",
+    "product_id": "B004E2Z88O",
+    "user_id": "KQ0845",
+    "rating": 2,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.415187"
+  },
+  {
+    "review_id": "6336ab53-e288-4d69-ba4c-68f3e3a95d81",
+    "product_id": "B0BNV9DJVK",
+    "user_id": "KQ0845",
+    "rating": 5,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.415195"
+  },
+  {
+    "review_id": "2fba2a5f-154e-4a2d-ab8c-8d1dd75531ec",
+    "product_id": "B007VJTUQ8",
+    "user_id": "KQ0845",
+    "rating": 3,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.415206"
+  },
+  {
+    "review_id": "82d4fdda-a3df-460f-b454-04f3481ba816",
+    "product_id": "B0BDQMXQFY",
+    "user_id": "GG8397",
+    "rating": 5,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.415217"
+  },
+  {
+    "review_id": "48c3793a-114d-449b-8a57-255a472f7fea",
+    "product_id": "B07PS6M97W",
+    "user_id": "GG8397",
+    "rating": 3,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.415230"
+  },
+  {
+    "review_id": "4b574756-8e49-4c5e-baa7-413b6642baf6",
+    "product_id": "B008GYKN68",
+    "user_id": "JV7485",
+    "rating": 3,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.415247"
+  },
+  {
+    "review_id": "ba5d4996-7a36-4534-8e07-3b3902fbc525",
+    "product_id": "B08QCPDKW1",
+    "user_id": "JV7485",
+    "rating": 3,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.415268"
+  },
+  {
+    "review_id": "d3407a98-66e6-43fc-bcd2-e80a7aa75b75",
+    "product_id": "B089CNGZCW",
+    "user_id": "JV7485",
+    "rating": 2,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.415289"
+  },
+  {
+    "review_id": "1a516e63-0a92-4b54-90ea-1047f9d1a76f",
+    "product_id": "B0BJL1MZ16",
+    "user_id": "JV7485",
+    "rating": 4,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.415298"
+  },
+  {
+    "review_id": "dad13149-7d27-468a-8c45-07259bcce5f8",
+    "product_id": "B07TB2C8QS",
+    "user_id": "RU9957",
+    "rating": 3,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.415307"
+  },
+  {
+    "review_id": "02584aa4-e4c1-429d-a69a-f581b6fe9362",
+    "product_id": "B0C2VCWPGY",
+    "user_id": "RU9957",
+    "rating": 4,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.415320"
+  },
+  {
+    "review_id": "7202b736-03b1-40cd-bc30-2497d9979d45",
+    "product_id": "B0B6SQMZ4P",
+    "user_id": "EN8669",
+    "rating": 4,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.415357"
+  },
+  {
+    "review_id": "33476f53-6f69-48d9-b49b-f43e266a9c75",
+    "product_id": "B0BJ7F4W33",
+    "user_id": "ZK4554",
+    "rating": 5,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.415369"
+  },
+  {
+    "review_id": "c9c40909-48c5-41f4-a572-996243ffed00",
+    "product_id": "B07RWDZ3HG",
+    "user_id": "ZK4554",
+    "rating": 5,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.415377"
+  },
+  {
+    "review_id": "d668476b-bcaf-4665-9277-1a90f5b7403e",
+    "product_id": "B0BJL1MZ16",
+    "user_id": "ZK4554",
+    "rating": 4,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.415386"
+  },
+  {
+    "review_id": "d0a50e70-0186-48c8-abc0-05f77478071e",
+    "product_id": "B004TNKXBU",
+    "user_id": "ZK4554",
+    "rating": 2,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.415397"
+  },
+  {
+    "review_id": "7186cff9-96cd-4756-9821-e0935fe54729",
+    "product_id": "B08XQ8PS2J",
+    "user_id": "UK0436",
+    "rating": 3,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.415411"
+  },
+  {
+    "review_id": "df003811-bc5d-469d-add4-98f8bddb6674",
+    "product_id": "B09H2Z9MFL",
+    "user_id": "EE0610",
+    "rating": 2,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.415424"
+  },
+  {
+    "review_id": "baee4c60-47c3-49cf-82ba-ebd498c9df25",
+    "product_id": "B00KAEVW26",
+    "user_id": "EE0610",
+    "rating": 5,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.415548"
+  },
+  {
+    "review_id": "8eaedb4d-5f03-4b6e-9291-4aa4758ea0c5",
+    "product_id": "B0B9GX98SX",
+    "user_id": "EE0610",
+    "rating": 5,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.415582"
+  },
+  {
+    "review_id": "cd22cc7d-f084-45f6-a421-dc3b1954b87b",
+    "product_id": "B07H8QWTPH",
+    "user_id": "EE0610",
+    "rating": 2,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.415595"
+  },
+  {
+    "review_id": "f89fb301-87c0-4bc5-9115-9f5743ec3fa7",
+    "product_id": "B07T9GCD14",
+    "user_id": "JX2633",
+    "rating": 3,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.415606"
+  },
+  {
+    "review_id": "1cf4de75-0b8b-420c-b201-b0e25a41d48c",
+    "product_id": "B08BCB52MR",
+    "user_id": "JX2633",
+    "rating": 5,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.415617"
+  },
+  {
+    "review_id": "a4b4509e-c38b-4c27-bdaa-c1d4b2dec2bd",
+    "product_id": "B08RJDB78J",
+    "user_id": "JX2633",
+    "rating": 2,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.415630"
+  },
+  {
+    "review_id": "4b6d303c-7bd0-4131-acca-3ef432b54203",
+    "product_id": "B09M7TH3YC",
+    "user_id": "JX2633",
+    "rating": 4,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.415642"
+  },
+  {
+    "review_id": "026fd071-7011-4312-8905-50efa98c91ee",
+    "product_id": "B08DP1YZP8",
+    "user_id": "KX5760",
+    "rating": 5,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.415652"
+  },
+  {
+    "review_id": "a379d211-77f0-4989-b951-ed12a8ab4c7f",
+    "product_id": "B00XIMZT8A",
+    "user_id": "KX5760",
+    "rating": 4,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.415660"
+  },
+  {
+    "review_id": "d68678ae-b152-442f-9463-b0d6ac30210b",
+    "product_id": "B06XKRXLDR",
+    "user_id": "KX5760",
+    "rating": 4,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.415669"
+  },
+  {
+    "review_id": "f7386480-d8c3-4133-8b52-addbc64d5f42",
+    "product_id": "B07H8QWTPH",
+    "user_id": "KX5760",
+    "rating": 3,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.415677"
+  },
+  {
+    "review_id": "5accacb6-9d80-4b97-97c9-e3dadc76f1c6",
+    "product_id": "B00M9AEJQA",
+    "user_id": "VC5388",
+    "rating": 4,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.415686"
+  },
+  {
+    "review_id": "a01b2238-2077-4163-ae3b-b914722dba2f",
+    "product_id": "B07X46T141",
+    "user_id": "VC5388",
+    "rating": 5,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.415696"
+  },
+  {
+    "review_id": "ce124d20-9659-49be-aa8e-ce11fa41c5d6",
+    "product_id": "B0B6SQMZ4P",
+    "user_id": "ZB3011",
+    "rating": 4,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.415708"
+  },
+  {
+    "review_id": "c916a5e7-0b88-4348-828c-456bbd0ccec7",
+    "product_id": "B07QF5117Q",
+    "user_id": "ZB3011",
+    "rating": 4,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.415717"
+  },
+  {
+    "review_id": "b7cdf7f1-6344-4a82-983d-e3402faf8768",
+    "product_id": "B07MVKYVVL",
+    "user_id": "ZB3011",
+    "rating": 3,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.415727"
+  },
+  {
+    "review_id": "1d491d20-b860-4165-bb73-b3a7cea5393f",
+    "product_id": "B00AOBL7H0",
+    "user_id": "HP3179",
+    "rating": 2,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.415736"
+  },
+  {
+    "review_id": "5528d9b2-5ae0-4b2a-863e-90e91c3bace6",
+    "product_id": "B08BCB52MR",
+    "user_id": "HP3179",
+    "rating": 3,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.415745"
+  },
+  {
+    "review_id": "92df39b7-a229-4381-bc7d-b758e4aaeecc",
+    "product_id": "B0BJL1MZ16",
+    "user_id": "JX0428",
+    "rating": 3,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.415759"
+  },
+  {
+    "review_id": "5bfd1d6b-0a88-45de-909c-a9286b1a97bd",
+    "product_id": "B089CNGZCW",
+    "user_id": "QP0431",
+    "rating": 2,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.415768"
+  },
+  {
+    "review_id": "3455359b-cc4c-43a6-ac34-e81e970a06cb",
+    "product_id": "B0BX6GGSTJ",
+    "user_id": "QP0431",
+    "rating": 5,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.415777"
+  },
+  {
+    "review_id": "a01a383c-5587-4dbc-ad71-65290887741d",
+    "product_id": "B0743MQB7N",
+    "user_id": "QP0431",
+    "rating": 2,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.415786"
+  },
+  {
+    "review_id": "0b9047fa-0226-447b-b9bb-1a6d0b46f0b5",
+    "product_id": "B0BX49PM8V",
+    "user_id": "MI8273",
+    "rating": 4,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.415795"
+  },
+  {
+    "review_id": "94c9c88f-e7ac-405a-8266-ca00f0f98ba0",
+    "product_id": "B07TB2C8QS",
+    "user_id": "FZ5843",
+    "rating": 5,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.415805"
+  },
+  {
+    "review_id": "5cdca368-03b9-4633-b1a4-df1cec6108b6",
+    "product_id": "B07848ZT9T",
+    "user_id": "FZ5843",
+    "rating": 5,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.415813"
+  },
+  {
+    "review_id": "b469fb04-fa37-4d8e-bd95-f7fbc5ef24bd",
+    "product_id": "B0BF9YKR59",
+    "user_id": "FZ5843",
+    "rating": 4,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.415821"
+  },
+  {
+    "review_id": "55e6f427-d684-4246-a4d6-9c36e4a8b745",
+    "product_id": "B008GYKN68",
+    "user_id": "TQ0979",
+    "rating": 4,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.415830"
+  },
+  {
+    "review_id": "db511e7a-6016-4e68-b703-92bc924265fa",
+    "product_id": "B08QCPDKW1",
+    "user_id": "TQ0979",
+    "rating": 5,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.415838"
+  },
+  {
+    "review_id": "2cec5917-4e2a-47a3-ab86-8e4169b145ed",
+    "product_id": "B0BNV9DJVK",
+    "user_id": "TQ0979",
+    "rating": 3,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.415847"
+  },
+  {
+    "review_id": "3ea14f67-a44d-4f1f-bcc9-47399ad63c9d",
+    "product_id": "B004TNKXBU",
+    "user_id": "AA0815",
+    "rating": 3,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.415856"
+  },
+  {
+    "review_id": "19f94d60-fbb8-4569-8296-f1320964e52b",
+    "product_id": "B07PS6M97W",
+    "user_id": "TC1194",
+    "rating": 3,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.415879"
+  },
+  {
+    "review_id": "59177d7a-3988-4aec-8196-67a53cb7234c",
+    "product_id": "B00FSTW88K",
+    "user_id": "TC1194",
+    "rating": 3,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.415911"
+  },
+  {
+    "review_id": "6539ed0b-0fd0-46b8-8283-4abdf0c7d9b3",
+    "product_id": "B01AC7EOL6",
+    "user_id": "TC1194",
+    "rating": 4,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.415934"
+  },
+  {
+    "review_id": "dcff0fb7-6f4b-4217-8784-62de82baa25c",
+    "product_id": "B07CRKJRT2",
+    "user_id": "GP3394",
+    "rating": 4,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.415946"
+  },
+  {
+    "review_id": "65dcdb57-1455-4379-8785-ff35da29f8a9",
+    "product_id": "B0949F55S3",
+    "user_id": "GP3394",
+    "rating": 2,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.415954"
+  },
+  {
+    "review_id": "18c157a1-32ab-4756-a246-59be57d10742",
+    "product_id": "B087V6XHNV",
+    "user_id": "GP3394",
+    "rating": 5,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.415963"
+  },
+  {
+    "review_id": "13f9b13e-c220-4816-93fc-85bf4c65afda",
+    "product_id": "B0C3VJHW5Z",
+    "user_id": "MB5731",
+    "rating": 5,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.415972"
+  },
+  {
+    "review_id": "c7dfc380-8dd1-4c5d-bf32-f02c7e9ea254",
+    "product_id": "B01EJZFUFG",
+    "user_id": "MB5731",
+    "rating": 2,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.415980"
+  },
+  {
+    "review_id": "cb610b96-fb5e-47e4-87b8-3d247650f52e",
+    "product_id": "B08RJDB78J",
+    "user_id": "MB5731",
+    "rating": 2,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.415989"
+  },
+  {
+    "review_id": "b2f082a1-b0cb-47f8-9da5-00b45b7b3f07",
+    "product_id": "B07RWDZ3HG",
+    "user_id": "TC1194",
+    "rating": 3,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.416002"
+  },
+  {
+    "review_id": "6eec97e7-3e55-46b9-9a84-ee7f3ca58ef8",
+    "product_id": "B0B8CY1MJ4",
+    "user_id": "TC1194",
+    "rating": 5,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.416015"
+  },
+  {
+    "review_id": "e75f2d55-a1bc-4fa5-bb06-b0e85bc2d876",
+    "product_id": "B008GYKN68",
+    "user_id": "GT9865",
+    "rating": 3,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.416027"
+  },
+  {
+    "review_id": "bb519660-b59c-4a35-aa37-62ceb4ef4178",
+    "product_id": "B07M67FJDB",
+    "user_id": "QD5065",
+    "rating": 4,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.416039"
+  },
+  {
+    "review_id": "644080a8-9a7f-44f9-a1c6-4e824f4e935b",
+    "product_id": "B0BKSXPZ82",
+    "user_id": "QD5065",
+    "rating": 5,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.416047"
+  },
+  {
+    "review_id": "4b65d365-4479-4144-b208-79ce910f5ff6",
+    "product_id": "B08QCPDKW1",
+    "user_id": "QD5065",
+    "rating": 4,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.416056"
+  },
+  {
+    "review_id": "489163dd-4178-48c4-aa6a-28281808f819",
+    "product_id": "B0029L7IYY",
+    "user_id": "QD5065",
+    "rating": 5,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.416067"
+  },
+  {
+    "review_id": "f81179c0-58d2-4aa3-8e9e-87675b7ff438",
+    "product_id": "B01N1TCT1Z",
+    "user_id": "VH4332",
+    "rating": 5,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.416080"
+  },
+  {
+    "review_id": "3e76eced-9dff-4685-b7a7-c4e3b152f320",
+    "product_id": "B018UK9Y6M",
+    "user_id": "VH4332",
+    "rating": 2,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.416093"
+  },
+  {
+    "review_id": "447c469d-4246-4375-b972-6cc6b54666e4",
+    "product_id": "B0B9GX98SX",
+    "user_id": "VH4332",
+    "rating": 4,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.416103"
+  },
+  {
+    "review_id": "aa0f206e-09e3-426e-ba66-26851915c152",
+    "product_id": "B0BPLX8B2K",
+    "user_id": "VH4332",
+    "rating": 4,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.416112"
+  },
+  {
+    "review_id": "64cf4d53-30b5-4316-9b7c-e3bae0edc900",
+    "product_id": "B0B6P5NF2Z",
+    "user_id": "IT4452",
+    "rating": 2,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.416121"
+  },
+  {
+    "review_id": "b9922543-1ef9-4940-8ed5-f5ec14e71a37",
+    "product_id": "B07XYHC577",
+    "user_id": "YP9087",
+    "rating": 3,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.416130"
+  },
+  {
+    "review_id": "c2f9a2bb-6fe5-4f2b-b43a-eeeb9295f535",
+    "product_id": "B0BKS1K986",
+    "user_id": "YP9087",
+    "rating": 3,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.416138"
+  },
+  {
+    "review_id": "7a64de5e-3b37-4770-904d-bfcfd09bb3fa",
+    "product_id": "B093N94GPG",
+    "user_id": "SI7074",
+    "rating": 3,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.416148"
+  },
+  {
+    "review_id": "13b75183-6705-4a6b-b8e4-e4429427acb5",
+    "product_id": "B07N1WJXTY",
+    "user_id": "WO4998",
+    "rating": 2,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.416157"
+  },
+  {
+    "review_id": "8bb30d10-3934-456f-983e-d689c7932fed",
+    "product_id": "B07Q1JN792",
+    "user_id": "SI7074",
+    "rating": 4,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.416166"
+  },
+  {
+    "review_id": "2d1d0fa2-427d-4171-ae98-a69fcbfce60c",
+    "product_id": "B09X983942",
+    "user_id": "SI7074",
+    "rating": 2,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.416174"
+  },
+  {
+    "review_id": "0a40b498-dbf7-4fdb-b676-03b233e25e4d",
+    "product_id": "B018UK9Y6M",
+    "user_id": "QU5185",
+    "rating": 5,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.416184"
+  },
+  {
+    "review_id": "b94f8c5b-f6b7-4587-8b46-7504fea92d10",
+    "product_id": "B07N1WJXTY",
+    "user_id": "QU5185",
+    "rating": 5,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.416192"
+  },
+  {
+    "review_id": "62db7a2f-a3ab-4241-9348-04c9e90d00f7",
+    "product_id": "B09X52MNQY",
+    "user_id": "QU5185",
+    "rating": 5,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.416205"
+  },
+  {
+    "review_id": "7fe5b7db-06ab-4d46-8655-a17ac913e742",
+    "product_id": "B000G14VL2",
+    "user_id": "QU5185",
+    "rating": 3,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.416218"
+  },
+  {
+    "review_id": "14acbdb8-1643-4da6-930a-22a4e167bd1a",
+    "product_id": "B07PCMZVTF",
+    "user_id": "IV0504",
+    "rating": 2,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.416232"
+  },
+  {
+    "review_id": "7e9ae43c-1994-4457-a664-d6b0025befdf",
+    "product_id": "B07X46T141",
+    "user_id": "EE0610",
+    "rating": 3,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.416246"
+  },
+  {
+    "review_id": "f256d481-d656-46c5-9402-e576d1d9b0e9",
+    "product_id": "B00JYFN9YG",
+    "user_id": "EE0610",
+    "rating": 5,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.416259"
+  },
+  {
+    "review_id": "d7f31b03-b23a-4379-b439-a6dfb049fa3e",
+    "product_id": "B0BJ7F4W33",
+    "user_id": "EE0610",
+    "rating": 4,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.416269"
+  },
+  {
+    "review_id": "72f36939-2d57-4c6d-b0b1-25be2a7596d5",
+    "product_id": "B0071SSBPK",
+    "user_id": "EE0610",
+    "rating": 5,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.416279"
+  },
+  {
+    "review_id": "dd2c24dc-cb0e-4b85-8279-ee32767a1de6",
+    "product_id": "B0B9JTJK7W",
+    "user_id": "HY8503",
+    "rating": 2,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.416288"
+  },
+  {
+    "review_id": "223d0fa0-8b9d-4d76-97b0-7d07e8fd4aeb",
+    "product_id": "B01DLNTUYY",
+    "user_id": "HY8503",
+    "rating": 4,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.416300"
+  },
+  {
+    "review_id": "a5ba0356-10e1-47a3-817b-562968f99817",
+    "product_id": "B0178F72E6",
+    "user_id": "HY8503",
+    "rating": 5,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.416313"
+  },
+  {
+    "review_id": "d084bdcb-fe50-4f01-9e38-a8a8a248a587",
+    "product_id": "B07TB2C8QS",
+    "user_id": "HY8503",
+    "rating": 2,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.416326"
+  },
+  {
+    "review_id": "fb3ee4be-a021-4c10-9147-770f6f9468a1",
+    "product_id": "B08TLSB7WL",
+    "user_id": "VV7756",
+    "rating": 2,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.416336"
+  },
+  {
+    "review_id": "d200531e-85d3-4091-a784-e9922c65108b",
+    "product_id": "B008GYKN68",
+    "user_id": "FZ4286",
+    "rating": 4,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.416345"
+  },
+  {
+    "review_id": "74c6ab62-688b-4205-99f2-f921e4491185",
+    "product_id": "B0B8CY1MJ4",
+    "user_id": "FZ4286",
+    "rating": 5,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.416353"
+  },
+  {
+    "review_id": "2a0cb524-7d93-411b-947d-11ec39c347b2",
+    "product_id": "B005T6TJIO",
+    "user_id": "FZ4286",
+    "rating": 3,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.416370"
+  },
+  {
+    "review_id": "b7be4ca8-b565-452c-bb58-8bcfeb06e14c",
+    "product_id": "B07RWDZ3HG",
+    "user_id": "WU4529",
+    "rating": 4,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.416382"
+  },
+  {
+    "review_id": "369efbf0-d44f-4989-82e0-2971ae74404a",
+    "product_id": "B078YMYB9P",
+    "user_id": "WU4529",
+    "rating": 3,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.416395"
+  },
+  {
+    "review_id": "0ccf659a-7230-4b7f-a18e-13c5dc27c103",
+    "product_id": "B0029L7IYY",
+    "user_id": "WU4529",
+    "rating": 5,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.416409"
+  },
+  {
+    "review_id": "57b6dc3e-fd6a-4f36-839d-cdf9035fce58",
+    "product_id": "B0BSQL7M51",
+    "user_id": "ZK4554",
+    "rating": 2,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.416419"
+  },
+  {
+    "review_id": "02989254-915a-4a62-9947-e666b0317c74",
+    "product_id": "B09H2Z9MFL",
+    "user_id": "EN8669",
+    "rating": 2,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.416436"
+  },
+  {
+    "review_id": "9f506e22-1a9b-4b2d-8a93-aad800a52940",
+    "product_id": "B016XL20UM",
+    "user_id": "EN8669",
+    "rating": 3,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.416445"
+  },
+  {
+    "review_id": "27540fd1-eddf-4622-985a-95349047c3e0",
+    "product_id": "B0B7JQWK1Q",
+    "user_id": "CL6424",
+    "rating": 5,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.416454"
+  },
+  {
+    "review_id": "5020a214-e301-40b4-96ac-d4dc99389a47",
+    "product_id": "B07RWDZ3HG",
+    "user_id": "CL6424",
+    "rating": 4,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.416463"
+  },
+  {
+    "review_id": "c79df0ec-b983-422c-91c8-5ae3c9dbcefb",
+    "product_id": "B098NX26X2",
+    "user_id": "FP5405",
+    "rating": 2,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.416475"
+  },
+  {
+    "review_id": "3c6af756-e8ae-4cbd-9958-3971156b1423",
+    "product_id": "B07VJXK7BV",
+    "user_id": "VC5388",
+    "rating": 2,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.416490"
+  },
+  {
+    "review_id": "e7b34269-9351-4b3b-80b1-803993c38c1f",
+    "product_id": "B01HME9RX2",
+    "user_id": "VC5388",
+    "rating": 2,
+    "comment": "Great product, highly recommend it!",
+    "created_at": "2025-05-08T19:36:09.416499"
+  },
+  {
+    "review_id": "37517ac8-1b69-4e54-9eed-6db5d49e53a9",
+    "product_id": "B07Q1JN792",
+    "user_id": "VC5388",
+    "rating": 2,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.416508"
+  },
+  {
+    "review_id": "5862416a-2971-4299-9540-9ed84fc1112d",
+    "product_id": "B008GYKN68",
+    "user_id": "NX4887",
+    "rating": 2,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.416517"
+  },
+  {
+    "review_id": "d4fb614f-f6d0-45fb-b154-1fde438f4fad",
+    "product_id": "B098NX26X2",
+    "user_id": "NX4887",
+    "rating": 5,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.416525"
+  },
+  {
+    "review_id": "8bb80d02-c1d1-4fa0-a162-5011be586b80",
+    "product_id": "B07Y8T5GTV",
+    "user_id": "NX4887",
+    "rating": 3,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.416533"
+  },
+  {
+    "review_id": "e3883d87-ca93-4526-a82b-fb5707fb19f2",
+    "product_id": "B086W46TYP",
+    "user_id": "EY4119",
+    "rating": 2,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.416543"
+  },
+  {
+    "review_id": "9d7e8878-296d-40fb-9e22-a0c640658028",
+    "product_id": "B00AOBL7H0",
+    "user_id": "EL2335",
+    "rating": 3,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.416552"
+  },
+  {
+    "review_id": "4df610a6-818d-4e5f-9881-fec3cc9752b1",
+    "product_id": "B00BGFTSGU",
+    "user_id": "EL2335",
+    "rating": 4,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.416560"
+  },
+  {
+    "review_id": "b90c697e-9b29-43ba-b295-eadb3ccabf67",
+    "product_id": "B0915C35CH",
+    "user_id": "QR5167",
+    "rating": 5,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.416570"
+  },
+  {
+    "review_id": "4c1d7c98-9f7d-4d69-beec-d6dad6e8b7fb",
+    "product_id": "B06XKRXLDR",
+    "user_id": "QR5167",
+    "rating": 4,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.416578"
+  },
+  {
+    "review_id": "9593807b-9835-4c39-89b1-2412a60bdaa2",
+    "product_id": "B087V6XHNV",
+    "user_id": "QR5167",
+    "rating": 5,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.416587"
+  },
+  {
+    "review_id": "77c8a090-9d22-4a3e-a5d8-4c0fb89bcee8",
+    "product_id": "B087NHW5FZ",
+    "user_id": "QR5167",
+    "rating": 5,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.416595"
+  },
+  {
+    "review_id": "6319ecd4-5bdd-441d-a486-bd97e502db0d",
+    "product_id": "B0BNHVJ8NX",
+    "user_id": "UM9350",
+    "rating": 2,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.416605"
+  },
+  {
+    "review_id": "65058c87-167d-4c8c-a8f4-2266b7463512",
+    "product_id": "B00XIT6C20",
+    "user_id": "UM9350",
+    "rating": 2,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.416619"
+  },
+  {
+    "review_id": "ec0d3d82-c1f6-4352-a8db-cdcd1c2c002d",
+    "product_id": "B08225X6DB",
+    "user_id": "KQ6389",
+    "rating": 4,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.416633"
+  },
+  {
+    "review_id": "664d82e8-97e0-4337-8a0a-269a4986c8ae",
+    "product_id": "B0BDQMXQFY",
+    "user_id": "KQ6389",
+    "rating": 4,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.416642"
+  },
+  {
+    "review_id": "17dd7896-f8d7-4701-b5d3-7a1e06ae31e9",
+    "product_id": "B07CRKJRT2",
+    "user_id": "KQ6389",
+    "rating": 3,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.416650"
+  },
+  {
+    "review_id": "6642376f-b461-4cf0-a6cd-725800445d79",
+    "product_id": "B0BJ7F4W33",
+    "user_id": "PC5931",
+    "rating": 3,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.416659"
+  },
+  {
+    "review_id": "8d367358-5906-4e0c-bb97-1a9f6ada8f29",
+    "product_id": "B0B6P5NF2Z",
+    "user_id": "PC5931",
+    "rating": 2,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.416668"
+  },
+  {
+    "review_id": "7fc8bb84-6c99-4414-bb09-be03a3729633",
+    "product_id": "B07G5TWZXK",
+    "user_id": "IX3097",
+    "rating": 5,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.416676"
+  },
+  {
+    "review_id": "bdd251fa-97c0-44e5-95fb-8fef87fe1e7d",
+    "product_id": "B07RWDZ3HG",
+    "user_id": "IX3097",
+    "rating": 3,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.416686"
+  },
+  {
+    "review_id": "8b399167-1a5f-4546-a41e-13d06867e528",
+    "product_id": "B00JYFN9YG",
+    "user_id": "VS9038",
+    "rating": 4,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.416695"
+  },
+  {
+    "review_id": "36921e87-964b-4350-80a6-fe9ec00d158c",
+    "product_id": "B0071SSBPK",
+    "user_id": "VS9038",
+    "rating": 3,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.416708"
+  },
+  {
+    "review_id": "0a22d7f1-7d46-4d34-b649-603d9656ed72",
+    "product_id": "B0BSQL7M51",
+    "user_id": "LF6426",
+    "rating": 2,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.416721"
+  },
+  {
+    "review_id": "75462e8a-8914-4eb5-a70f-9dc4c387bd25",
+    "product_id": "B0071SSBPK",
+    "user_id": "LF6426",
+    "rating": 4,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.416730"
+  },
+  {
+    "review_id": "bb31ce63-b652-48e3-acca-a1c0f0a24f05",
+    "product_id": "B08254WPLJ",
+    "user_id": "LF6426",
+    "rating": 4,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.416738"
+  },
+  {
+    "review_id": "5345a1ca-a1bc-445e-b2f7-36fa544433af",
+    "product_id": "B07Y6K1PRB",
+    "user_id": "LF6426",
+    "rating": 4,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.416748"
+  },
+  {
+    "review_id": "60cd3cac-6c12-4efd-bece-c85b539160a3",
+    "product_id": "B07N1WJXTY",
+    "user_id": "IV0504",
+    "rating": 2,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.416756"
+  },
+  {
+    "review_id": "687a89bb-b9e5-480a-8ca3-51c97f9308ed",
+    "product_id": "B07SM135LS",
+    "user_id": "TJ4788",
+    "rating": 4,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.416769"
+  },
+  {
+    "review_id": "03eba884-4a89-4daa-9454-1139262aecad",
+    "product_id": "B07G5TWZXK",
+    "user_id": "YT6872",
+    "rating": 2,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.416783"
+  },
+  {
+    "review_id": "92c74418-b168-4d2a-8139-fb225c814c32",
+    "product_id": "B099RB31ML",
+    "user_id": "YT6872",
+    "rating": 4,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.416797"
+  },
+  {
+    "review_id": "90dffe87-3ac6-4828-8b16-3ef6526d481c",
+    "product_id": "B0029L7IYY",
+    "user_id": "YT6872",
+    "rating": 5,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.416805"
+  },
+  {
+    "review_id": "7c846a07-c120-4186-9598-9bb542bc9451",
+    "product_id": "B0915C35CH",
+    "user_id": "YT6872",
+    "rating": 4,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.416815"
+  },
+  {
+    "review_id": "1a18cb01-14a3-43e5-853d-e69970d9208a",
+    "product_id": "B07WZT643Q",
+    "user_id": "RG4635",
+    "rating": 5,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.416824"
+  },
+  {
+    "review_id": "999d640f-a96c-487f-bacc-e82fad7766c8",
+    "product_id": "B000I7VWKC",
+    "user_id": "RG4635",
+    "rating": 2,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.416832"
+  },
+  {
+    "review_id": "aaf535ad-a909-400f-9c85-8224a976c8ea",
+    "product_id": "B08GFTPQ5B",
+    "user_id": "UB0288",
+    "rating": 3,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.416842"
+  },
+  {
+    "review_id": "10e953d7-b511-4889-8a46-cb9603a225b5",
+    "product_id": "B0BSQL7M51",
+    "user_id": "UB0288",
+    "rating": 2,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.416850"
+  },
+  {
+    "review_id": "bc84953c-9b77-49b4-90f9-43022f2533d7",
+    "product_id": "B0BMXFDSKM",
+    "user_id": "XN5834",
+    "rating": 3,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.416860"
+  },
+  {
+    "review_id": "889e3abd-f6f5-4dbd-8529-a2119ee794fc",
+    "product_id": "B081Q75F4H",
+    "user_id": "XN5834",
+    "rating": 4,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.416868"
+  },
+  {
+    "review_id": "58ca2797-93de-47c2-9d35-afcafa7844d5",
+    "product_id": "B09M7TH3YC",
+    "user_id": "TC1194",
+    "rating": 2,
+    "comment": "Excellent quality for the price.",
+    "created_at": "2025-05-08T19:36:09.416877"
+  },
+  {
+    "review_id": "220d7420-775f-487b-84ad-beedd1fe7747",
+    "product_id": "B0BGMJX4RN",
+    "user_id": "BC7218",
+    "rating": 2,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.416887"
+  },
+  {
+    "review_id": "db588303-88b7-497d-b08b-9d31353a15bd",
+    "product_id": "B00P1Q17ZU",
+    "user_id": "XT1289",
+    "rating": 5,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.416896"
+  },
+  {
+    "review_id": "40900589-ab9d-4644-8c2f-72bddfa2be3c",
+    "product_id": "B0BGPG7ZNM",
+    "user_id": "NI1623",
+    "rating": 4,
+    "comment": "I'm happy with the purchase.",
+    "created_at": "2025-05-08T19:36:09.416905"
+  },
+  {
+    "review_id": "dc12054f-c153-4ce8-a957-b7b18a3e65b7",
+    "product_id": "B071YJFTV4",
+    "user_id": "NI1623",
+    "rating": 3,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.416914"
+  },
+  {
+    "review_id": "ab775586-b498-40de-93ff-871034f21cc6",
+    "product_id": "B08QCPDKW1",
+    "user_id": "NI1623",
+    "rating": 5,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.416922"
+  },
+  {
+    "review_id": "e32823c3-a5b7-4223-83f8-c18891705094",
+    "product_id": "B0BVLBJNF3",
+    "user_id": "QP0431",
+    "rating": 3,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.416931"
+  },
+  {
+    "review_id": "51545adf-78e7-4e65-862a-0e5de31aedb6",
+    "product_id": "B001E6BAHQ",
+    "user_id": "QP0431",
+    "rating": 5,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.416940"
+  },
+  {
+    "review_id": "09b112cd-5a3d-40b9-9882-b555ccd67df3",
+    "product_id": "B0915C35CH",
+    "user_id": "OL7346",
+    "rating": 5,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.416950"
+  },
+  {
+    "review_id": "8f641ce2-2c53-4de2-abe8-e60dc5a34f85",
+    "product_id": "B093GWXVC4",
+    "user_id": "WJ3647",
+    "rating": 2,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.416959"
+  },
+  {
+    "review_id": "9832de89-dc66-4c04-beb6-775056223e6f",
+    "product_id": "B0993H9FLR",
+    "user_id": "WJ3647",
+    "rating": 2,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.416969"
+  },
+  {
+    "review_id": "42d24331-49f0-48ac-88b2-7d3f9f30cca4",
+    "product_id": "B08RJDB78J",
+    "user_id": "WJ3647",
+    "rating": 2,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.416983"
+  },
+  {
+    "review_id": "52e8c13a-77be-4023-8e74-5f91bc2b9dbb",
+    "product_id": "B08LF36XD2",
+    "user_id": "WJ3647",
+    "rating": 2,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.416996"
+  },
+  {
+    "review_id": "47c8ffb8-acde-42e2-814a-be2dfe42bfa2",
+    "product_id": "B0BNHVJ8NX",
+    "user_id": "TJ4788",
+    "rating": 2,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.417006"
+  },
+  {
+    "review_id": "0700309c-4692-4b18-9758-dc01d37edeb7",
+    "product_id": "B08GQ2VHQ6",
+    "user_id": "TJ4788",
+    "rating": 4,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.417015"
+  },
+  {
+    "review_id": "48fd3a42-8c67-46e8-87e2-37e82540c387",
+    "product_id": "B0BSQL7M51",
+    "user_id": "TJ4788",
+    "rating": 5,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.417026"
+  },
+  {
+    "review_id": "ce9a12b2-bca4-4fac-b77e-b3d55ed87140",
+    "product_id": "B07Y8T5GTV",
+    "user_id": "TJ4788",
+    "rating": 5,
+    "comment": "Looks durable and useful.",
+    "created_at": "2025-05-08T19:36:09.417039"
+  },
+  {
+    "review_id": "bdfd25a1-f676-465b-8221-1d0b75896e5c",
+    "product_id": "B00KO8RLZ0",
+    "user_id": "MI8273",
+    "rating": 5,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.417052"
+  },
+  {
+    "review_id": "b6a98669-5665-432a-ab54-b80a8b0a38f0",
+    "product_id": "B07DYJR44S",
+    "user_id": "MI8273",
+    "rating": 4,
+    "comment": "Not satisfied, it had some issues.",
+    "created_at": "2025-05-08T19:36:09.417061"
+  },
+  {
+    "review_id": "4e44c39b-78f3-4d9f-9db4-3914933b6ad9",
+    "product_id": "B089CNGZCW",
+    "user_id": "WB6766",
+    "rating": 2,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.417070"
+  },
+  {
+    "review_id": "d1bfe4da-3d11-4ede-be95-4860b207495e",
+    "product_id": "B071JDPKJ8",
+    "user_id": "EZ4556",
+    "rating": 3,
+    "comment": "Will definitely buy again.",
+    "created_at": "2025-05-08T19:36:09.417079"
+  },
+  {
+    "review_id": "896ddf64-a5cf-404e-9032-037e7069223a",
+    "product_id": "B01DLNTUYY",
+    "user_id": "EZ4556",
+    "rating": 5,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.417088"
+  },
+  {
+    "review_id": "3de765ed-728a-4914-9cc7-ca8590cdbc7b",
+    "product_id": "B0BDQMXQFY",
+    "user_id": "NG3269",
+    "rating": 4,
+    "comment": "Fast delivery and well packaged.",
+    "created_at": "2025-05-08T19:36:09.417096"
+  },
+  {
+    "review_id": "ecb2c99d-4f99-4bd9-830c-35ddb0563549",
+    "product_id": "B0BL2GDGHK",
+    "user_id": "NG3269",
+    "rating": 3,
+    "comment": "Exactly as described, thank you!",
+    "created_at": "2025-05-08T19:36:09.417104"
+  },
+  {
+    "review_id": "4437c10a-a857-4e72-98c1-634dbda32999",
+    "product_id": "B09X52MNQY",
+    "user_id": "NG3269",
+    "rating": 3,
+    "comment": "Did not meet my expectations.",
+    "created_at": "2025-05-08T19:36:09.417113"
+  },
+  {
+    "review_id": "ca744271-2037-4936-b320-0dbbabae59a4",
+    "product_id": "B08GQ2VHQ6",
+    "user_id": "WE5483",
+    "rating": 4,
+    "comment": "A bit pricey but works well.",
+    "created_at": "2025-05-08T19:36:09.417122"
+  }
+]

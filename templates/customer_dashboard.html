@@ -1,0 +1,65 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<h2>Welcome, {{ session.get('user_name') }}</h2>
+
+<form method="get" class="search-form">
+  <label for="sort">Sort by:</label>
+  <select name="sort" onchange="this.form.submit()">
+    <option value="">-- Select --</option>
+    <option value="price_asc" {% if request.args.get('sort') == 'price_asc' %}selected{% endif %}>Price Ascending</option>
+    <option value="price_desc" {% if request.args.get('sort') == 'price_desc' %}selected{% endif %}>Price Descending</option>
+  </select>
+</form>
+
+<h3>Products</h3>
+<div class="product-grid-wrapper">
+  <div class="product-grid">
+    {% for product in products %}
+      <div class="product-card">
+        {% if product.image_url %}
+          <img src="{{ product.image_url }}" alt="{{ product.name }}" class="product-image">
+        {% else %}
+          <div class="product-placeholder">No image</div>
+        {% endif %}
+        <h4>{{ product.name }}</h4>
+        <p>{{ product.description }}</p>
+        <p><strong>{{ product.price }} €</strong></p>
+        <form method="post" action="{{ url_for('add_to_cart') }}">
+          <input type="hidden" name="product_id" value="{{ product.product_id }}">
+          <button type="submit">Add to Cart</button>
+        </form>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<hr>
+
+<h3>Order History</h3>
+{% if orders %}
+  <table>
+    <tr>
+      <th>Date</th>
+      <th>Total</th>
+      <th>Products</th>
+    </tr>
+    {% for order in orders %}
+    <tr>
+      <td>{{ order.order_date[:10] }}</td>
+      <td>{{ order.total }} €</td>
+      <td>
+        <ul>
+          {% for p in order.detailed_products %}
+            <li>{{ p.name }} ({{ p.quantity }} x {{ p.price }} €)</li>
+          {% endfor %}
+        </ul>
+      </td>
+    </tr>
+    {% endfor %}
+  </table>
+{% else %}
+  <p>You haven't placed any orders yet.</p>
+{% endif %}
+
+{% endblock %}

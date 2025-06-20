@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>TechGear eShop</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+  <nav class="main-nav">
+    <div class="nav-left">
+      <img src="{{ url_for('static', filename='img/techgear_logo.png') }}" alt="TechGear" class="logo">
+    </div>
+    <div class="nav-links">
+      <a href="{{ url_for('home') }}">Home</a>
+      <a href="{{ url_for('store') }}">Store</a>
+      <a href="{{ url_for('cart') }}">Cart</a>
+
+      {% if session.get('user_id') %}
+        {% if session.get('role') == 'admin' %}
+          <a href="{{ url_for('admin_panel') }}">Admin Panel</a>
+        {% elif session.get('role') == 'customer' %}
+          <a href="{{ url_for('customer_panel') }}">Orders</a>
+          <a href="{{ url_for('profile') }}">Profile</a>
+        {% endif %}
+        <a href="{{ url_for('logout') }}">Logout</a>
+      {% else %}
+        <a href="{{ url_for('login') }}">Login</a>
+        <a href="{{ url_for('register') }}">Register</a>
+      {% endif %}
+    </div>
+  </nav>
+  
+  <main>
+    {% block content %}{% endblock %}
+  </main>
+
+</body>
+</html>

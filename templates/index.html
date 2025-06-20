@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<div class="landing-container">
+  <h1>Welcome to TechGear</h1>
+  <p>Your ultimate destination for top-quality tech accessories and gadgets.</p>
+
+  <div class="landing-buttons">
+    <a href="{{ url_for('store') }}" class="btn">Visit the Store</a>
+
+    {% if not session.get('user_id') %}
+      <a href="{{ url_for('register') }}" class="btn">Register</a>
+      <a href="{{ url_for('login') }}" class="btn">Login</a>
+    {% endif %}
+  </div>
+</div>
+
+{% endblock %}

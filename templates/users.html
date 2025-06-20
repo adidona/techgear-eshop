@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block content %}
+
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    fetch('/api/users')
+      .then(r => r.json())
+      .then(users => {
+        const tbody = document.querySelector('#usersTable tbody');
+        tbody.innerHTML = '';
+        users.forEach(u => {
+          const tr = document.createElement('tr');
+          tr.innerHTML = `
+            <td>${u.user_id}</td>
+            <td>${u.name}</td>
+            <td>${u.email}</td>
+            <td>${u.role || '-'}</td>
+          `;
+          tbody.appendChild(tr);
+        });
+      });
+  });
+</script>
+{% endblock %}

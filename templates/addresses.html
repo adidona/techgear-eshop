@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<h2 style="text-align:center;">My Addresses</h2>
+
+{% if addresses %}
+  <ul style="max-width: 600px; margin: 0 auto;">
+    {% for addr in addresses %}
+      <li style="margin-bottom: 20px; border: 1px solid #ccc; padding: 15px; border-radius: 8px;">
+        <p><strong>Street:</strong> {{ addr.street }}</p>
+        <p><strong>Zip Code:</strong> {{ addr.zipcode }}</p>
+        <p><strong>Phone:</strong> {{ addr.phone }}</p>
+        
+        <form method="post" action="{{ url_for('delete_address') }}" style="display:inline;">
+          <input type="hidden" name="street" value="{{ addr.street }}">
+          <input type="hidden" name="zipcode" value="{{ addr.zipcode }}">
+          <input type="hidden" name="phone" value="{{ addr.phone }}">
+          <button type="submit" onclick="return confirm('Are you sure you want to delete this address?')">
+            🗑️ Delete
+          </button>
+        </form>
+
+        <form method="post" action="{{ url_for('set_default_address') }}" style="display:inline;">
+          <input type="hidden" name="street" value="{{ addr.street }}">
+          <input type="hidden" name="zipcode" value="{{ addr.zipcode }}">
+          <input type="hidden" name="phone" value="{{ addr.phone }}">
+          <button type="submit">✅ Set as Default</button>
+        </form>
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p style="text-align:center;">No saved addresses found.</p>
+{% endif %}
+
+{% endblock %}

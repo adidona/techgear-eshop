@@ -1,0 +1,42 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<h2>Order History</h2>
+
+{% if orders %}
+  <table>
+    <tr>
+      <th>Customer Name</th>
+      <th>Total</th>
+      <th>Order Date</th>
+      <th>Products</th>
+    </tr>
+    {% for order in orders %}
+    <tr>
+      <td>{{ order.user_name }}</td>
+      <td>{{ order.total_price }} €</td>
+      <td>{{ order.order_date[:10] if order.order_date }}</td>
+      <td>
+        {% if order.detailed_products %}
+        <ul style="list-style-type: none; padding-left: 0;">
+            {% for p in order.detailed_products %}
+              <li style="margin-bottom: 10px;">
+                {% if p.image_url %}
+                  <img src="{{ p.image_url }}" alt="{{ p.name }}" style="height: 40px; vertical-align: middle; margin-right: 8px;">
+                {% endif %}
+                {{ p.name }} ({{ p.quantity }} x {{ p.price }} €)
+              </li>
+            {% endfor %}
+        </ul>
+        {% else %}
+          -
+        {% endif %}
+      </td>
+    </tr>
+    {% endfor %}
+  </table>
+{% else %}
+  <p>You haven't placed any orders yet.</p>
+{% endif %}
+
+{% endblock %}

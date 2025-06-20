@@ -1,0 +1,63 @@
+{% extends 'base.html' %}
+{% block content %}
+<h2>Admin Panel</h2>
+
+<div class="admin-tabs">
+  <button onclick="showSection('users')">Users</button>
+  <button onclick="showSection('orders')">Orders</button>
+  <button onclick="showSection('products')">Products</button>
+</div>
+
+<div id="section-users" class="admin-section" style="display: none;">
+  <h3>Users</h3>
+  <table>
+    <tr><th>Email</th><th>Name</th><th>Role</th></tr>
+    {% for user in users %}
+    <tr>
+      <td>{{ user.email }}</td>
+      <td>{{ user.name }}</td>
+      <td>{{ user.role }}</td>
+    </tr>
+    {% endfor %}
+  </table>
+</div>
+
+<div id="section-orders" class="admin-section" style="display: none;">
+  <h3>Orders</h3>
+  <table>
+    <tr><th>Date</th><th>User</th><th>Total</th></tr>
+    {% for order in orders %}
+    <tr>
+      <td>{{ order.order_date[:10] if order.order_date }}</td>
+      <td>{{ order.user_name }} ({{ order.user_id }})</td>
+      <td>{{ order.total_price }} €</td>
+    </tr>
+    {% endfor %}
+  </table>
+</div>
+
+<div id="section-products" class="admin-section" style="display: none;">
+  <h3>Products</h3>
+  <table>
+    <tr><th>Name</th><th>Category</th><th>Price</th></tr>
+    {% for product in products %}
+    <tr>
+      <td>{{ product.title }}</td>
+      <td>{{ product.category }}</td>
+      <td>{{ product.price }} €</td>
+    </tr>
+    {% endfor %}
+  </table>
+</div>
+
+<script>
+  function showSection(sectionId) {
+    const sections = document.querySelectorAll('.admin-section');
+    sections.forEach(sec => sec.style.display = 'none');
+
+    const selected = document.getElementById('section-' + sectionId);
+    if (selected) selected.style.display = 'block';
+  }
+</script>
+
+{% endblock %}
