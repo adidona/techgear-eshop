@@ -18,4 +18,4 @@ Edit .env with your values and ensure that your AWS user has permission to read 
 4. Set up DynamoDB tables. You must include in your AWS account these tables: Users, Products, Orders, Reviews.
 Each table must have a primary key that matches the access pattern in the app.
 5. Run the Flask app
-```python3 app.py```. By default, Flask runs the app at: http://localhost:5000
+```python3 app.py```. Then open http://localhost:5000
